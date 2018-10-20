@@ -1,0 +1,100 @@
+
+        <html><head><title>CFJ 3147</title>
+        <style>
+            body {
+              font-family: monospace;
+            }
+          table{
+              font: 1em/1.2 "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+              border-collapse: collapse;
+              width: 550px;
+          }         
+         a:link     {text-decoration: none;  color: white;}
+         a:visited  {text-decoration: none;  color: white;}
+         td:hover {background-color: #666;}
+ td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    overflow: hidden;
+    font-size: 1.2em;
+    text-align: center;
+    background-color: #444;
+    color: white;
+}
+.indx{text-align:left; vertical-align:bottom; font-size:100%;}
+.prev{text-align:right; vertical-align:bottom; font-size:85%;}
+.next{text-align:left; vertical-align:bottom; font-size:85%;}
+.text{text-align:right; vertical-align:bottom; font-size:100%;}
+
+td a{
+  display: block;
+  margin: -10cm;
+  padding: 10cm;
+}
+         </style>
+         </head>
+         <body>
+         <table><tr>
+         <td class="indx"><a href="./#3148">Index</a></td>
+         <td class="prev"><a href="./3146"><b>&larr;&nbsp;3146</b></a></td>
+         <td><a href="./3147"><b>CFJ 3147</b></a></td>
+         <td class="next"><a href="./3148"><b>3148&nbsp;&rarr;</b></a></td>
+         <td class="text"><a href="./txt/3147">text</a></td>
+         </tr></table><pre>
+==============================  CFJ 3147  ==============================
+
+    No actions were performed by announcement due to the first 6 lines
+    of the above-quoted message
+
+========================================================================
+
+Caller:                                 FKA441344
+
+Judge:                                  omd
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by FKA441344:                    14 Jan 2012 13:03:15 GMT
+Assigned to omd:                        14 Jan 2012 20:26:53 GMT
+Judged FALSE by omd:                    14 Jan 2012 22:00:22 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Any specification of an action in those lines is
+unclear due to, if those lines are an encoded message rather than just
+gibberish, the encoding that has been applied to those lines.
+
+========================================================================
+
+Caller's Evidence:
+
+Rule 478
+
+On 1/13/12, Eric Stucky <turiski.nomic@gmail.com> wrote:
+> V PSW: V nz n cynlre.
+>
+> Nethzragf: Nygubhtu pnfr 2062 jnf whqtrq GEHR, n cevznel zbgvingvba sbe gung
+> qrpvfvba jnf gung gur nhgube fgngrq vg jnf rapbqrq va n cnegvphyne znaare,
+> juvpu guvf zrffntr qbrf abg. (Bs pbhefr, guvf nffhzrf pnfr 3143 vf whqtrq
+> GEHR)
+>
+> I object to every intent declared by 441344.
+>
+> -Turiski
+
+========================================================================
+
+Judge omd's Arguments:
+
+CFJ 2062 established that a ROT13 message could be considered
+"the use of a synonym or abbreviation in place of a word or phrase";
+although the instant message differs in not being explicitly labeled
+as ROT13, I find that the encoding should have been obvious to every
+player.
+
+========================================================================</pre></body></html>

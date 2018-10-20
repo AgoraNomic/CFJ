@@ -1,0 +1,98 @@
+
+        <html><head><title>CFJ 3524</title>
+        <style>
+            body {
+              font-family: monospace;
+            }
+          table{
+              font: 1em/1.2 "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+              border-collapse: collapse;
+              width: 550px;
+          }         
+         a:link     {text-decoration: none;  color: white;}
+         a:visited  {text-decoration: none;  color: white;}
+         td:hover {background-color: #666;}
+ td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    overflow: hidden;
+    font-size: 1.2em;
+    text-align: center;
+    background-color: #444;
+    color: white;
+}
+.indx{text-align:left; vertical-align:bottom; font-size:100%;}
+.prev{text-align:right; vertical-align:bottom; font-size:85%;}
+.next{text-align:left; vertical-align:bottom; font-size:85%;}
+.text{text-align:right; vertical-align:bottom; font-size:100%;}
+
+td a{
+  display: block;
+  margin: -10cm;
+  padding: 10cm;
+}
+         </style>
+         </head>
+         <body>
+         <table><tr>
+         <td class="indx"><a href="./#3525">Index</a></td>
+         <td class="prev"><a href="./3523"><b>&larr;&nbsp;3523</b></a></td>
+         <td><a href="./3524"><b>CFJ 3524</b></a></td>
+         <td class="next"><a href="./3525"><b>3525&nbsp;&rarr;</b></a></td>
+         <td class="text"><a href="./txt/3524">text</a></td>
+         </tr></table><pre>
+==============================  CFJ 3524  ==============================
+
+       Murphy has a White Ribbon.
+
+========================================================================
+
+Caller:                       ais523
+
+Judge:                        Publius Scribonius Scholasticus
+Judgement:                    FALSE
+
+========================================================================
+
+History:
+
+Called by ais523:                                 09 Jun 2017
+Assigned to Publius Scribonius Scholasticus:      09 Jun 2017
+Judged FALSE by Publius Scribonius Scholasticus:  20 Jun 2017
+
+========================================================================
+
+Caller's Arguments:
+
+           Does "A player qualifies for a White Ribbon if e has never
+previously owned a White Ribbon (including under previous rulesets)."
+count White Ribbons from rulesets that predate the adoption of rule
+2438? If so, this is FALSE; if not, this is TRUE.
+
+========================================================================
+
+Caller's Evidence:
+
+On Fri, 2017-06-09 at 18:08 +0100, Alex Smith wrote:
+> On Thu, 2017-06-08 at 09:01 -0700, Edward Murphy wrote:
+> > I award myself a White Ribbon. (According to the latest Tailor's
+> > report, I haven't had one since Rule 2438 was adopted.)
+> 
+> I'm not convinced this works. According to old archives, you awarded
+> yourself a White Ribbon on 24 November 2009, as a consequence of
+> mentoring omd (one of the ways to get White Ribbons back then), and
+> rule 2438 says "including under previous rulesets". (At least, when
+> writing the rule, I intended it to be able to look at the old Ribbons
+> system. Maybe it doesn't, though?)
+
+========================================================================
+
+Judge's Arguments:
+
+I find CFJ 3524 FALSE, as the ruleset clearly and undebatebly specifies
+in plain terms that any previous holding of a White Ribbon under any
+ruleset precludes the action that Murphy attempted to take to become the
+holder of a White Ribbon.
+
+========================================================================
+</pre></body></html>

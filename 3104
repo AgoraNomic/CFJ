@@ -1,0 +1,101 @@
+
+        <html><head><title>CFJ 3104</title>
+        <style>
+            body {
+              font-family: monospace;
+            }
+          table{
+              font: 1em/1.2 "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+              border-collapse: collapse;
+              width: 550px;
+          }         
+         a:link     {text-decoration: none;  color: white;}
+         a:visited  {text-decoration: none;  color: white;}
+         td:hover {background-color: #666;}
+ td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    overflow: hidden;
+    font-size: 1.2em;
+    text-align: center;
+    background-color: #444;
+    color: white;
+}
+.indx{text-align:left; vertical-align:bottom; font-size:100%;}
+.prev{text-align:right; vertical-align:bottom; font-size:85%;}
+.next{text-align:left; vertical-align:bottom; font-size:85%;}
+.text{text-align:right; vertical-align:bottom; font-size:100%;}
+
+td a{
+  display: block;
+  margin: -10cm;
+  padding: 10cm;
+}
+         </style>
+         </head>
+         <body>
+         <table><tr>
+         <td class="indx"><a href="./#3105">Index</a></td>
+         <td class="prev"><a href="./3103"><b>&larr;&nbsp;3103</b></a></td>
+         <td><a href="./3104"><b>CFJ 3104</b></a></td>
+         <td class="next"><a href="./3105"><b>3105&nbsp;&rarr;</b></a></td>
+         <td class="text"><a href="./txt/3104">text</a></td>
+         </tr></table><pre>
+==============================  CFJ 3104  ==============================
+
+    G. became a player as a result of ais523's message quoted in
+    evidence.
+
+========================================================================
+
+Caller:                                 Murphy
+
+Judge:                                  scshunt
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       19 Oct 2011 04:44:15 GMT
+Assigned to scshunt:                    21 Oct 2011 03:34:11 GMT
+Judged FALSE by scshunt:                21 Oct 2011 18:42:49 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+G.'s message probably sufficed to trigger Rule 869, but I
+don't remember whether there's precedent for this particular form (if
+there is, then I'll retract these cases).
+
+========================================================================
+
+Caller's Evidence:
+
+ais523 wrote:
+
+> On Tue, 2011-10-18 at 15:51 -0700, Kerim Aydin wrote:
+>> I CFJ on the following statement:
+>> I intend to become a player at this time.
+>> I retract the above CFJ.
+>
+> I support and do so.
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+CFJ 2979 says the that nesting a registration message in a
+CFJ statement *doesn't* work but CFJ 2980 says that adding "I do so"
+does the trick.  I'm wondering if retracting the CFJ leaves the statement
+behind or is just additional confirmation of nullification.
+
+========================================================================
+
+Judge scshunt's Arguments:
+
+G.'s intent did not specify the method of dependent action that he intended to
+use.
+
+========================================================================</pre></body></html>

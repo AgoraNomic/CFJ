@@ -1,0 +1,148 @@
+
+        <html><head><title>CFJ 3477</title>
+        <style>
+            body {
+              font-family: monospace;
+            }
+          table{
+              font: 1em/1.2 "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+              border-collapse: collapse;
+              width: 550px;
+          }         
+         a:link     {text-decoration: none;  color: white;}
+         a:visited  {text-decoration: none;  color: white;}
+         td:hover {background-color: #666;}
+ td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    overflow: hidden;
+    font-size: 1.2em;
+    text-align: center;
+    background-color: #444;
+    color: white;
+}
+.indx{text-align:left; vertical-align:bottom; font-size:100%;}
+.prev{text-align:right; vertical-align:bottom; font-size:85%;}
+.next{text-align:left; vertical-align:bottom; font-size:85%;}
+.text{text-align:right; vertical-align:bottom; font-size:100%;}
+
+td a{
+  display: block;
+  margin: -10cm;
+  padding: 10cm;
+}
+         </style>
+         </head>
+         <body>
+         <table><tr>
+         <td class="indx"><a href="./#3478">Index</a></td>
+         <td class="prev"><a href="./3476"><b>&larr;&nbsp;3476</b></a></td>
+         <td><a href="./3477"><b>CFJ 3477</b></a></td>
+         <td class="next"><a href="./3478"><b>3478&nbsp;&rarr;</b></a></td>
+         <td class="text"><a href="./txt/3477">text</a></td>
+         </tr></table><pre>
+=============================  CFJ 3477  =============================
+
+      Assuming that Quazie is a player, e has, within the past week, 
+      exceeded the Income Cap.
+
+======================================================================
+
+Caller:                      Aris
+
+Judge:                       o
+Judgement:                   TRUE
+
+======================================================================
+
+History:
+
+Called by Aris:              22 Apr 2017
+Assigned to o:               28 Apr 2017
+Judged TRUE by o:            29 Apr 2017 
+
+======================================================================
+
+Caller's Arguments:
+
+"Allowable" could mean either "possible" or "permissible". If it's the
+later, e has not exceeded the Cap, as the highest permissible value is
+the highest value e could not be punished for. Additionally, if the
+action is ambiguous between the two (or otherwise ambiguous) then it 
+is insufficiently clear to be valid.
+
+======================================================================
+
+Caller's Evidence:
+
+======================================================================
+
+Judge's Evidence:
+
+First, if Quazie is ultimately determined not to be a player, then this
+sentence is vacuously true.
+
+If Quazie is ultimately determined to have been a player at the time,
+then the sentence is still true, as outlined below.
+
+The phrase "the past week" should be understood as the seven Agoran
+days ending 22 Apr 2017. During this period, Quazie (whose status as a
+player was unknown at that time) posted the following message:
+
+    Assuming I am a player:
+         I flip my budget switch in all Open charters to their highest
+         allowable value.
+
+Aris' arguments:
+
+    "Allowable" could mean either "possible" or "permissible". If it's
+    the later, e has not exceeded the Cap, as the highest permissible
+    value is the highest value e could not be punished for.
+    Additionally, if the action is ambiguous between the two (or
+    otherwise ambiguous) then it is insufficiently clear to be valid.
+
+Interpreting Quazie's "allowable" as "possible" is the only
+interpretation of eir sentence which leads to a single, definite
+outcome for the game. Interpreting "allowable" as "permissible" would,
+indeed, cap Quazie's speculative Expenditure at 100, as that is the
+highest value which does not warrant censure in the rules. However,
+there are a very large number of ways to assign Budget to specific
+Organizations so as to remain under that limit.
+
+Where a sentence, read one way, leads to a single and definite outcome,
+and read another way, leads to ambiguity, it would be foolish to assume
+the ambiguous reading without further indication from the author that
+the ambiguous reading is the desired one or that the definite reading
+is in some way accidental. Forcing players to adopt extremely precise
+syntax, lest their clear intentions fail because of technicalities,
+would bring the game to a halt in short order.
+
+As the single definite outcome possible from Quazie's statement is
+that, if Quazie is a player, then Quazie flipped each of eir Budget
+switches to the highest possible value for the corresponding
+Organization, eir Expenditure assuredly exceeded the Income Cap of 100.
+Thus, the statement is true.
+
+While I did not consider the following gratuitous argument, it concurs
+with this conclusion.
+
+天火狐's arguments:
+
+    The issue here as I see it is predicate level: there is a
+    stage-level interpretation and an individual-level interpretation.
+    The individual-level interpretation is that the adjective applies
+    to the modified noun intrinsically, that is, "the responsible
+    people" at the individual-level refers to people who are generally
+    responsible. On the other hand, the stage-level interpretation has
+    a more holistic sense of the situation, with a focus on the now:
+    the stage-level interpretation of the aforementioned statement,
+    usually written as "the people responsible", using a postpositive
+    adjective, is generally interpreted as something like "the people
+    responsible for the situation at hand". Provided that allowable is
+    acceptable as a postpositive adjective, it seems reasonable to cast
+    the prepositive adjective statement as taking on the
+    individual-level meaning, which would agree with the interpretation
+    of Quazie exceeding the Income Cap.
+
+======================================================================
+</pre></body></html>

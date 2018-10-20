@@ -1,0 +1,99 @@
+
+        <html><head><title>CFJ 3224</title>
+        <style>
+            body {
+              font-family: monospace;
+            }
+          table{
+              font: 1em/1.2 "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+              border-collapse: collapse;
+              width: 550px;
+          }         
+         a:link     {text-decoration: none;  color: white;}
+         a:visited  {text-decoration: none;  color: white;}
+         td:hover {background-color: #666;}
+ td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    overflow: hidden;
+    font-size: 1.2em;
+    text-align: center;
+    background-color: #444;
+    color: white;
+}
+.indx{text-align:left; vertical-align:bottom; font-size:100%;}
+.prev{text-align:right; vertical-align:bottom; font-size:85%;}
+.next{text-align:left; vertical-align:bottom; font-size:85%;}
+.text{text-align:right; vertical-align:bottom; font-size:100%;}
+
+td a{
+  display: block;
+  margin: -10cm;
+  padding: 10cm;
+}
+         </style>
+         </head>
+         <body>
+         <table><tr>
+         <td class="indx"><a href="./#3225">Index</a></td>
+         <td class="prev"><a href="./3223"><b>&larr;&nbsp;3223</b></a></td>
+         <td><a href="./3224"><b>CFJ 3224</b></a></td>
+         <td class="next"><a href="./3225"><b>3225&nbsp;&rarr;</b></a></td>
+         <td class="text"><a href="./txt/3224">text</a></td>
+         </tr></table><pre>
+==============================  CFJ 3224  ==============================
+
+    Yes e did.
+
+========================================================================
+
+Caller:                                 FKA441344
+
+Judge:                                  scshunt
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by FKA441344:                    28 May 2012 23:55:58 GMT
+Assigned to scshunt:                    12 Jun 2012 14:37:54 GMT
+Judged TRUE by scshunt:                 12 Jun 2012 14:46:52 GMT
+
+========================================================================
+
+Caller's Evidence:
+
+If a promise with title {74b1b01d3de45663e5663b2d3e8904ec} exists,
+ignore the rest of this message. Otherwise, I create a promise with
+title {74b1b01d3de45663e5663b2d3e8904ec} and text {}.
+
+On Sat, May 26, 2012 at 3:03 AM, Sean Hunt <scshunt at csclub.uwaterloo.ca>
+wrote:
+> On Sun, May 13, 2012 at 1:38 PM, John Smith <spambait3 at yahoo.com> wrote:
+>> The following is a Victory Announcement: The President satisfied the
+Winning Condition of Anarchy when eir most recent promise was cashed.
+>
+> CoE: No e did not.
+>
+> -scshunt
+
+I CFJ: Yes e did.
+
+========================================================================
+
+Judge scshunt's Arguments:
+
+TRUE by virtue of legal fiction.
+
+========================================================================
+
+Gratuitous Arguments by Murphy:
+
+On or about Sun, 13 May 2012 10:38:29 -0700, Bucky published a Victory
+Announcement for The President.  While the Victory Announcements for
+scshunt and omd were explicitly challenged (CFJs 3209 and 3210
+respectively), the one for The President apparently wasn't, thus it
+self-ratified.
+
+========================================================================</pre></body></html>

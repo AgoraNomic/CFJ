@@ -1,0 +1,108 @@
+
+        <html><head><title>CFJ 3329</title>
+        <style>
+            body {
+              font-family: monospace;
+            }
+          table{
+              font: 1em/1.2 "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+              border-collapse: collapse;
+              width: 550px;
+          }         
+         a:link     {text-decoration: none;  color: white;}
+         a:visited  {text-decoration: none;  color: white;}
+         td:hover {background-color: #666;}
+ td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    overflow: hidden;
+    font-size: 1.2em;
+    text-align: center;
+    background-color: #444;
+    color: white;
+}
+.indx{text-align:left; vertical-align:bottom; font-size:100%;}
+.prev{text-align:right; vertical-align:bottom; font-size:85%;}
+.next{text-align:left; vertical-align:bottom; font-size:85%;}
+.text{text-align:right; vertical-align:bottom; font-size:100%;}
+
+td a{
+  display: block;
+  margin: -10cm;
+  padding: 10cm;
+}
+         </style>
+         </head>
+         <body>
+         <table><tr>
+         <td class="indx"><a href="./#3330">Index</a></td>
+         <td class="prev"><a href="./3329a"><b>&larr;&nbsp;3329a</b></a></td>
+         <td><a href="./3329"><b>CFJ 3329</b></a></td>
+         <td class="next"><a href="./3330"><b>3330&nbsp;&rarr;</b></a></td>
+         <td class="text"><a href="./txt/3329">text</a></td>
+         </tr></table><pre>
+=========================  Criminal Case 3329  =========================
+
+    scshunt has failed to submit an IADoP's report for this week, and in
+    doing so has violated Rule 2143.
+
+========================================================================
+
+Caller:                                 scshunt
+
+Judge:                                  Henri
+Judgement:                              
+
+
+Judge:                                  Wes
+Judgement:                              
+
+
+Judge:                                  Walker
+Judgement:                              GUILTY/FINE
+
+Appeal:                                 3329a
+Decision:                               OVERRULE/NOT GUILTY
+
+========================================================================
+
+History:
+
+Called by scshunt:                      26 May 2013 22:47:15 GMT
+Defendant scshunt informed:             26 May 2013 22:47:15 GMT
+Assigned to Henri:                      27 May 2013 22:35:18 GMT
+Henri recused:                          09 Jun 2013 18:20:49 GMT
+Assigned to Wes:                        09 Jun 2013 18:23:33 GMT
+Wes recused:                            22 Jun 2013 18:59:07 GMT
+Assigned to Walker:                     22 Jun 2013 18:59:07 GMT
+Judged GUILTY/FINE by Walker:           22 Jun 2013 20:45:38 GMT
+Appealed by scshunt:                    23 Jun 2013 21:01:01 GMT
+Appeal 3329a:                           23 Jun 2013 21:01:01 GMT
+OVERRULED to NOT GUILTY on Appeal:      04 Jul 2013 04:20:12 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+(I am away from home and won't get to do reports until after midnight UTC)
+
+========================================================================
+
+Judge Walker's Arguments:
+
+GUILTY, FINE, 1 VC.
+
+========================================================================
+
+Appellant scshunt's Arguments:
+
+On Sun, Jun 23, 2013 at 2:08 PM, Ed Murphy <emurphy42@socal.rr.com> wrote:
+> I intend (with 2 support) to make this case Notable, suggesting Rule
+> 1504 and an annotation along the lines of "GUILTY can be appropriate
+> for inaction during a time period, even if the case was initiated
+> while that time period was still in progress".
+
+I object and appeal, given that the Judge provided no reasoning for
+why this is so.
+
+========================================================================</pre></body></html>

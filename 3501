@@ -1,0 +1,106 @@
+
+        <html><head><title>CFJ 3501</title>
+        <style>
+            body {
+              font-family: monospace;
+            }
+          table{
+              font: 1em/1.2 "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+              border-collapse: collapse;
+              width: 550px;
+          }         
+         a:link     {text-decoration: none;  color: white;}
+         a:visited  {text-decoration: none;  color: white;}
+         td:hover {background-color: #666;}
+ td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    overflow: hidden;
+    font-size: 1.2em;
+    text-align: center;
+    background-color: #444;
+    color: white;
+}
+.indx{text-align:left; vertical-align:bottom; font-size:100%;}
+.prev{text-align:right; vertical-align:bottom; font-size:85%;}
+.next{text-align:left; vertical-align:bottom; font-size:85%;}
+.text{text-align:right; vertical-align:bottom; font-size:100%;}
+
+td a{
+  display: block;
+  margin: -10cm;
+  padding: 10cm;
+}
+         </style>
+         </head>
+         <body>
+         <table><tr>
+         <td class="indx"><a href="./#3502">Index</a></td>
+         <td class="prev"><a href="./3500"><b>&larr;&nbsp;3500</b></a></td>
+         <td><a href="./3501"><b>CFJ 3501</b></a></td>
+         <td class="next"><a href="./3502"><b>3502&nbsp;&rarr;</b></a></td>
+         <td class="text"><a href="./txt/3501">text</a></td>
+         </tr></table><pre>
+==============================  CFJ 3501  ==============================
+
+      Gaelan is a player.
+
+========================================================================
+
+Caller:                       Quazie
+
+Judge:                        ais523
+Judgement:                              
+
+========================================================================
+
+History:
+
+Called by Quazie:             19 May 2017
+Assigned to ais523:           19 May 2017
+Judged TRUE by ais523:        19 May 2017
+
+========================================================================
+
+Caller's Evidence:
+
+On Sun, May 14, 2017 at 11:33 PM Gaelan Steele <gbs@canishe.com> wrote:
+>
+> Let’s see if I can make a CFJ out of this.
+> 
+> Gaelan
+
+========================================================================
+
+Judge's Arguments
+
+The relevant excerpt from rule 869:
+{{{
+      A person CAN (unless explicitly forbidden or prevented by the
+      rules) register by publishing a message that indicates
+      reasonably clearly and reasonably unambiguously that e intends
+      to become a player at that time.
+}}}
+
+The original message had a subject line of "BUS: Registration", and
+nothing in the message body contradicts the initial impression (that
+most players would get upon seeing a message with that subject from a
+nonplayer) that the message was indeed an attempt to register. Gaelan
+has been a player before, and is likely aware of Agoran customs related
+to registration; I think it's reasonably clear that Gaelan expected to
+become a player as a result of the message, which in turn implies that
+e intended to become a player (otherwise e would not have sent it).
+The other possible interpretations would involve the message being a
+discussion of, or otherwise comment on, registration, but those don't
+seem to be compatible with its content.
+
+It's worth noting that registration intentionally has a lower standard
+for ambiguity/clarity than most other actions; an action such as
+registering with a suggestive subject line works when restricted to
+registration, but would likely fail for any of our wide range of by-
+announcement actions.
+
+I judge CFJ 3501 TRUE.
+
+========================================================================
+</pre></body></html>

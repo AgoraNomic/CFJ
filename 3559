@@ -1,0 +1,78 @@
+
+        <html><head><title>CFJ 3559</title>
+        <style>
+            body {
+              font-family: monospace;
+            }
+          table{
+              font: 1em/1.2 "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+              border-collapse: collapse;
+              width: 550px;
+          }         
+         a:link     {text-decoration: none;  color: white;}
+         a:visited  {text-decoration: none;  color: white;}
+         td:hover {background-color: #666;}
+ td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    overflow: hidden;
+    font-size: 1.2em;
+    text-align: center;
+    background-color: #444;
+    color: white;
+}
+.indx{text-align:left; vertical-align:bottom; font-size:100%;}
+.prev{text-align:right; vertical-align:bottom; font-size:85%;}
+.next{text-align:left; vertical-align:bottom; font-size:85%;}
+.text{text-align:right; vertical-align:bottom; font-size:100%;}
+
+td a{
+  display: block;
+  margin: -10cm;
+  padding: 10cm;
+}
+         </style>
+         </head>
+         <body>
+         <table><tr>
+         <td class="indx"><a href="./#3560">Index</a></td>
+         <td class="prev"><a href="./3558"><b>&larr;&nbsp;3558</b></a></td>
+         <td><a href="./3559"><b>CFJ 3559</b></a></td>
+         <td class="next"><a href="./3560"><b>3560&nbsp;&rarr;</b></a></td>
+         <td class="text"><a href="./txt/3559">text</a></td>
+         </tr></table><pre>
+==============================  CFJ 3559  ==============================
+
+      The statement "Lines beginning with hashmarks ('#') and comments
+      in square brackets ('[]') have no effect on the behavior of this
+      proposal. They are not part of any rules created or amended 
+      herein, and may be considered for all game purposes to have been
+      removed before its resolution.", as it appears near the beginning
+      of the contracts proposal I sent to agora-discussion, has the 
+      clearly intended effect.
+
+========================================================================
+
+Caller:                       Aris         
+
+Judge:                        o
+Judgement:                    
+
+========================================================================
+
+History:
+
+Called by Aris:               14 Sep 2017                    
+Assigned to o:                15 Sep 2017                  
+
+========================================================================
+
+Caller's Arguments:
+
+The last paragraph of Rule 106 implies that this works. Also,
+proposals are interpreted as human readable text, so it makes sense
+that portions could be commented out.
+
+========================================================================
+
+</pre></body></html>

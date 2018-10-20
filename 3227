@@ -1,0 +1,109 @@
+
+        <html><head><title>CFJ 3227</title>
+        <style>
+            body {
+              font-family: monospace;
+            }
+          table{
+              font: 1em/1.2 "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+              border-collapse: collapse;
+              width: 550px;
+          }         
+         a:link     {text-decoration: none;  color: white;}
+         a:visited  {text-decoration: none;  color: white;}
+         td:hover {background-color: #666;}
+ td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    overflow: hidden;
+    font-size: 1.2em;
+    text-align: center;
+    background-color: #444;
+    color: white;
+}
+.indx{text-align:left; vertical-align:bottom; font-size:100%;}
+.prev{text-align:right; vertical-align:bottom; font-size:85%;}
+.next{text-align:left; vertical-align:bottom; font-size:85%;}
+.text{text-align:right; vertical-align:bottom; font-size:100%;}
+
+td a{
+  display: block;
+  margin: -10cm;
+  padding: 10cm;
+}
+         </style>
+         </head>
+         <body>
+         <table><tr>
+         <td class="indx"><a href="./#3228">Index</a></td>
+         <td class="prev"><a href="./3226"><b>&larr;&nbsp;3226</b></a></td>
+         <td><a href="./3227"><b>CFJ 3227</b></a></td>
+         <td class="next"><a href="./3228"><b>3228&nbsp;&rarr;</b></a></td>
+         <td class="text"><a href="./txt/3227">text</a></td>
+         </tr></table><pre>
+==============================  CFJ 3227  ==============================
+
+    Someone committed the crime of Not Doing Your Own Dirty Work when
+    Scapegoat taunted the police.
+
+========================================================================
+
+Caller:                                 Bucky
+Barred:                                 Pavitra
+
+Judge:                                  Murphy
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Bucky:                        09 Jun 2012 00:03:53 GMT
+Assigned to Murphy:                     12 Jun 2012 14:39:07 GMT
+Judged FALSE by Murphy:                 12 Jun 2012 14:54:54 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Running with the precedents from CfJ 3209 (and by extension 1890), the "Final
+cause" of Scapegoat's action was the cashing of a promise.  In particular, the
+creation of that promise was NOT.  Since the language defining the Crime of
+Not Doing Your Own Dirty Work (NDYODW) applies it only to actions someone
+caused the golem to take by announcement, causing a Slave Golem to violate a
+rule by cashing a promise falls outside the scope of NDYODW.  And since
+creating the promise was by itself not sufficient to cause the rule violation,
+requiring additional first-class person agency to do so, creating the promise
+did not violate NDYODW.  Similarly, the actions of transferring the promise
+and creating and transferring Scapegoat were not NDYODW, being even further
+removed from the action of taunting the police.
+
+Finally, Pavitra (or any other person) did not commit NDYODW because e did not
+use Rule 2361 to cause Scapegoat to take any actions.
+
+========================================================================
+
+Caller's Evidence:
+
+I cause BuckyBot to create a Slave Golem named "Scapegoat".
+I cause BuckyBot to transfer Scapegoat to me.
+
+I cause Scapegoat to create a Promise, hereafter "Dirty Work", specifying the
+text "I taunt the police, specifying 1."
+I cause Scapegoat to create a Promise, hereafter "Cleanup", specifying the
+text "I deregister."
+I cause Scapegoat to transfer the Promise "Dirty Work" to me.
+I cause Scapegoat to transfer Cleanup to me.
+
+For good measure, I transfer Scapegoat to Pavitra.
+
+I cash Dirty Work, the promise created above with the text "I taunt the
+police, specifying 1.".
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+I accept the caller's arguments.
+
+========================================================================</pre></body></html>

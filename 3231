@@ -1,0 +1,120 @@
+
+        <html><head><title>CFJ 3231</title>
+        <style>
+            body {
+              font-family: monospace;
+            }
+          table{
+              font: 1em/1.2 "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+              border-collapse: collapse;
+              width: 550px;
+          }         
+         a:link     {text-decoration: none;  color: white;}
+         a:visited  {text-decoration: none;  color: white;}
+         td:hover {background-color: #666;}
+ td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    overflow: hidden;
+    font-size: 1.2em;
+    text-align: center;
+    background-color: #444;
+    color: white;
+}
+.indx{text-align:left; vertical-align:bottom; font-size:100%;}
+.prev{text-align:right; vertical-align:bottom; font-size:85%;}
+.next{text-align:left; vertical-align:bottom; font-size:85%;}
+.text{text-align:right; vertical-align:bottom; font-size:100%;}
+
+td a{
+  display: block;
+  margin: -10cm;
+  padding: 10cm;
+}
+         </style>
+         </head>
+         <body>
+         <table><tr>
+         <td class="indx"><a href="./#3232">Index</a></td>
+         <td class="prev"><a href="./3230"><b>&larr;&nbsp;3230</b></a></td>
+         <td><a href="./3231"><b>CFJ 3231</b></a></td>
+         <td class="next"><a href="./3232"><b>3232&nbsp;&rarr;</b></a></td>
+         <td class="text"><a href="./txt/3231">text</a></td>
+         </tr></table><pre>
+==============================  CFJ 3231  ==============================
+
+    On or about Tue, 19 Jun 2012 00:43:19 -0400, scshunt transferred a
+    ruble to Machiavelli.
+
+========================================================================
+
+Caller:                                 Murphy
+Barred:                                 Machiavelli
+
+Judge:                                  ais523
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       19 Jun 2012 19:13:31 GMT
+Assigned to ais523:                     21 Jun 2012 12:59:45 GMT
+Judged FALSE by ais523:                 25 Jun 2012 15:51:29 GMT
+
+========================================================================
+
+Caller's Evidence:
+
+Machiavelli wrote:
+
+> On Tue, Jun 19, 2012 at 12:43 AM, Sean Hunt<scshunt@csclub.uwaterloo.ca>
+wrote:
+>> I transfer a ruble to Nuas Te.
+>
+> Thank you.
+>
+> —Nuas te
+
+========================================================================
+
+Gratuitous Arguments by Machiavelli:
+
+this exchange from ##nomic on freenode, dated
+June 18, US PDT:
+
+18 21:39:03 < tswett> Hey guys?  I hereby change my Agoran nickname.
+18 21:39:05 < tswett> I am now Seosach Gaelg o Nuas te Scrio'fa
+Dheacsan ze Machiavelli.
+18 21:39:25 < coppro> hmm :D
+18 21:39:49 < tswett> You may refer to me as "Seosach Gaelg o", "Nuas
+te", "Scrio'fa", "Dheacsan ze", or "Machiavelli".
+18 21:42:50 < coppro> ok
+
+—Seosach Gaelg o Nuas te Scrio'fa Dheacsan ze Machiavelli
+
+========================================================================
+
+Gratuitous Arguments by Machiavelli:
+
+My opinion is FALSE. Since my nickname change was not posted to a
+public forum, nor even a forum that most Agorans subscribe to, it was
+not known to Agora at large, making the name "Nuas Te" ambiguous.
+(Subjectively ambiguous, that is.) Now that I have used the nickname,
+it is known to Agora at large, meaning that the action would succeed
+if it were tried again.
+
+========================================================================
+
+Judge ais523's Arguments:
+
+(As an extreme example, imagine two players each
+choosing the same nickname on IRC, with a disjoint set of players
+present each time, and someone who wasn't there on either occasion
+making the transfer.) In general, an action cannot succeed if there
+isn't enough widely known information for players to know what it means.
+(See also CFJ 1821, which found that intending to nkep wasn't enough
+information to initiate an Agoran Decision. That was a similar case, in
+which the player attempting to nkep knew what it meant.)
+
+========================================================================</pre></body></html>

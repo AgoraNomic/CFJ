@@ -1,0 +1,81 @@
+
+        <html><head><title>CFJ 3086</title>
+        <style>
+            body {
+              font-family: monospace;
+            }
+          table{
+              font: 1em/1.2 "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+              border-collapse: collapse;
+              width: 550px;
+          }         
+         a:link     {text-decoration: none;  color: white;}
+         a:visited  {text-decoration: none;  color: white;}
+         td:hover {background-color: #666;}
+ td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    overflow: hidden;
+    font-size: 1.2em;
+    text-align: center;
+    background-color: #444;
+    color: white;
+}
+.indx{text-align:left; vertical-align:bottom; font-size:100%;}
+.prev{text-align:right; vertical-align:bottom; font-size:85%;}
+.next{text-align:left; vertical-align:bottom; font-size:85%;}
+.text{text-align:right; vertical-align:bottom; font-size:100%;}
+
+td a{
+  display: block;
+  margin: -10cm;
+  padding: 10cm;
+}
+         </style>
+         </head>
+         <body>
+         <table><tr>
+         <td class="indx"><a href="./#3087">Index</a></td>
+         <td class="prev"><a href="./3085"><b>&larr;&nbsp;3085</b></a></td>
+         <td><a href="./3086"><b>CFJ 3086</b></a></td>
+         <td class="next"><a href="./3087"><b>3087&nbsp;&rarr;</b></a></td>
+         <td class="text"><a href="./txt/3086">text</a></td>
+         </tr></table><pre>
+==============================  CFJ 3086  ==============================
+
+    Agora's right to participate in the fora is substantially limited.
+
+========================================================================
+
+Caller:                                 G.
+
+Judge:                                  omd
+Judgement:                              
+
+
+Judge:                                  woggle
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by G.:                           08 Aug 2011 23:50:58 GMT
+Assigned to omd:                        14 Aug 2011 17:47:26 GMT
+omd recused:                            10 Sep 2011 17:10:01 GMT
+Assigned to woggle:                     10 Sep 2011 18:56:08 GMT
+Judged FALSE by woggle:                 12 Sep 2011 15:37:47 GMT
+
+========================================================================
+
+Judge woggle's Arguments:
+
+I judge CFJ 3086 FALSE. Agora's players are capable of receiving
+messages from the fora, and Agora is capable of sending messages to
+Agoran fora via the mechanisms by which it can act (e.g. via proposal
+passing an appropriate rule directing the message to be sent on its
+behalf). Agora's internal decision-making processes which might cause
+it to participate it in the fora are considerably more cumbersome than
+a typical player's, but this internal fault does not implicate R101.
+
+========================================================================</pre></body></html>

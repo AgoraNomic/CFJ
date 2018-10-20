@@ -1,0 +1,100 @@
+
+        <html><head><title>CFJ 3309</title>
+        <style>
+            body {
+              font-family: monospace;
+            }
+          table{
+              font: 1em/1.2 "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+              border-collapse: collapse;
+              width: 550px;
+          }         
+         a:link     {text-decoration: none;  color: white;}
+         a:visited  {text-decoration: none;  color: white;}
+         td:hover {background-color: #666;}
+ td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    overflow: hidden;
+    font-size: 1.2em;
+    text-align: center;
+    background-color: #444;
+    color: white;
+}
+.indx{text-align:left; vertical-align:bottom; font-size:100%;}
+.prev{text-align:right; vertical-align:bottom; font-size:85%;}
+.next{text-align:left; vertical-align:bottom; font-size:85%;}
+.text{text-align:right; vertical-align:bottom; font-size:100%;}
+
+td a{
+  display: block;
+  margin: -10cm;
+  padding: 10cm;
+}
+         </style>
+         </head>
+         <body>
+         <table><tr>
+         <td class="indx"><a href="./#3310">Index</a></td>
+         <td class="prev"><a href="./3308"><b>&larr;&nbsp;3308</b></a></td>
+         <td><a href="./3309"><b>CFJ 3309</b></a></td>
+         <td class="next"><a href="./3310"><b>3310&nbsp;&rarr;</b></a></td>
+         <td class="text"><a href="./txt/3309">text</a></td>
+         </tr></table><pre>
+==============================  CFJ 3309  ==============================
+
+    Proposal 7386 failed to fully take effect because it attempted to
+    modify a substantial aspect of Proposal 7411
+
+========================================================================
+
+Caller:                                 Bucky
+
+Judge:                                  woggle
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Bucky:                        21 Apr 2013 17:20:34 GMT
+Assigned to woggle:                     27 Apr 2013 19:43:33 GMT
+Judged FALSE by woggle:                 04 May 2013 02:12:58 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Proposal 7386 attempted to repeal the rule defining the author of Proposal
+7411.  This would cause Proposal 7411 to not have an author.  Changing the
+author would violate Rule 2350.
+
+========================================================================
+
+Judge woggle's Arguments:
+
+Proposal 7386 does not destroy all Golems, and therefore did not itself
+attempt to modify a substantial aspect of Proposal 7411.
+
+Instead, if this modification was attempted at all, it was attempted by R1586,
+which requires that when a Rule-defined entity is repealed, that that entity
+cease to exist. This is sufficient to judge this CFJ FALSE.
+
+With respect to whether R1586 interferes with the prohibition on modifications
+to proposals as applied to undefining a proposal's author:
+
+The author of a proposal is defined -- not just initially set -- by
+referencing the event of the creation of the proposal. Thus, the prohibition
+on modification of the author attribute prevents creating a legal fiction that
+a different entity created the proposal. Although we do not normally allow
+game entities to continue to refer to destroyed entities, it is appropriate to
+do so when the defining rule explicitly examines history.
+
+Another issue is whether properties of the author besides whether it created
+the proposal deserve protection as an "attribute" of a proposal. The authors
+existence and attributes are only incidental to the typical operation of the
+proposal, so I hold that it does not. This is unlike other attributes of the
+proposal which typically function principally as part of the proposal, like
+the proposal's text or the proposal's AI.
+
+========================================================================</pre></body></html>

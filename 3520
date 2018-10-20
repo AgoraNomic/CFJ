@@ -1,0 +1,147 @@
+
+        <html><head><title>CFJ 3520</title>
+        <style>
+            body {
+              font-family: monospace;
+            }
+          table{
+              font: 1em/1.2 "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+              border-collapse: collapse;
+              width: 550px;
+          }         
+         a:link     {text-decoration: none;  color: white;}
+         a:visited  {text-decoration: none;  color: white;}
+         td:hover {background-color: #666;}
+ td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    overflow: hidden;
+    font-size: 1.2em;
+    text-align: center;
+    background-color: #444;
+    color: white;
+}
+.indx{text-align:left; vertical-align:bottom; font-size:100%;}
+.prev{text-align:right; vertical-align:bottom; font-size:85%;}
+.next{text-align:left; vertical-align:bottom; font-size:85%;}
+.text{text-align:right; vertical-align:bottom; font-size:100%;}
+
+td a{
+  display: block;
+  margin: -10cm;
+  padding: 10cm;
+}
+         </style>
+         </head>
+         <body>
+         <table><tr>
+         <td class="indx"><a href="./#3521">Index</a></td>
+         <td class="prev"><a href="./3519"><b>&larr;&nbsp;3519</b></a></td>
+         <td><a href="./3520"><b>CFJ 3520</b></a></td>
+         <td class="next"><a href="./3521"><b>3521&nbsp;&rarr;</b></a></td>
+         <td class="text"><a href="./txt/3520">text</a></td>
+         </tr></table><pre>
+==============================  CFJ 3520  ==============================
+
+         Quazie is the author of the proposal "Throw off Your Chains".
+
+========================================================================
+
+Caller:                       G.
+
+Judge:                        Gaelan
+
+Judge:                        Publius Scribonius Scholasticus
+Judgement:                    TRUE
+
+========================================================================
+
+History:
+
+Called by G.:                                   05 Jun 2017
+Assigned to Gaelan:                             06 Jun 2017
+Gaelan Recused:                                 28 Jun 2017
+Assigned to Publius Scribonius Scholasticus:    28 Jun 2017
+Judged TRUE by Publius Scribonius Scholasticus: 28 Jun 2017
+
+========================================================================
+
+Caller's Arguments:
+
+I state for the record that Quazie had no knowledge of this proposal
+before it was sent to the public forum.  The proposal was written by G.,
+and submitted on behalf of Quazie via the BÖÖ Agency.
+
+Rule 2350 reads in part:
+      A player CAN create a proposal by announcement...
+this is clearly Quazie.
+
+But it also reads:
+      The author (syn. proposer) of a proposal is the person who 
+      submitted it.
+"Submit" is not directly defined, and could be the publisher of the
+message.  In this case, the sender and writer of the proposal is G.
+Which one is the "person who submitted it"?
+
+Gratuitous addition:
+
+If H. Judge Gaelan could also opine on if one party (Quazie or I)
+is a "coauthor" (as that term is wholly undefined in the Rules from
+what I can see), that would be much appreciated.
+
+========================================================================
+
+Caller's Evidence:
+(message sent by G.)
+
+I use the BÖÖ Agency to submit the following proposal, "Throw off Your
+Chains", AI-3, specifying that it is a Competition Proposal for the
+current proposal competition:
+----------------------------------------------------------------------
+WHEREAS:
+   The perpetuation of dictatorship is not treating Agora Right Good
+   Forever;
+
+and WHEREAS:
+   The existence of dictatorship is an anathema, and the presence of
+   a current dictatorship in the Rules is a Mess of our own making;
+
+and WHEREAS:
+   The persons in power have not made a visible effort to clean up 
+   said mess, in perhaps hoping that the hoi agorai will remain 
+   docile, or apathetic;
+
+and WHEREAS:
+   such docility, in the long-term, is fully AGAINST OUR NATURE;
+
+BE IT THEREFORE RESOLVED:
+   That Rule 2942 (Reward and Delay) is hereby REPEALED.
+----------------------------------------------------------------------
+
+========================================================================
+
+Gratuitous Arguments by Aris:
+
+Coauthor is not undefined. Rule 2350:
+
+"A proposal is a type of entity consisting of a body of text and other
+attributes. A player CAN create a proposal by announcement, specifying
+its text and optionally specifying any of the following attributes:
+
+An associated title.
+A list of co-authors (which must be persons other than the author).
+An adoption index."
+
+========================================================================
+
+Judge Publius Scribonius Scholasticus's Arguments:
+
+I find CFJ 3520 TRUE as the proposal was submitted by G., while he was
+acting as Cuddlebeam. I find that for instances such as this acting as a
+person is equivalent to being that person. Given that no persons other
+than Cuddlebeam were included, I find that no coauthors exist for this
+proposal.
+
+========================================================================
+
+</pre></body></html>

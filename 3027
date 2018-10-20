@@ -1,0 +1,89 @@
+
+        <html><head><title>CFJ 3027</title>
+        <style>
+            body {
+              font-family: monospace;
+            }
+          table{
+              font: 1em/1.2 "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+              border-collapse: collapse;
+              width: 550px;
+          }         
+         a:link     {text-decoration: none;  color: white;}
+         a:visited  {text-decoration: none;  color: white;}
+         td:hover {background-color: #666;}
+ td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    overflow: hidden;
+    font-size: 1.2em;
+    text-align: center;
+    background-color: #444;
+    color: white;
+}
+.indx{text-align:left; vertical-align:bottom; font-size:100%;}
+.prev{text-align:right; vertical-align:bottom; font-size:85%;}
+.next{text-align:left; vertical-align:bottom; font-size:85%;}
+.text{text-align:right; vertical-align:bottom; font-size:100%;}
+
+td a{
+  display: block;
+  margin: -10cm;
+  padding: 10cm;
+}
+         </style>
+         </head>
+         <body>
+         <table><tr>
+         <td class="indx"><a href="./#3028a">Index</a></td>
+         <td class="prev"><a href="./3026"><b>&larr;&nbsp;3026</b></a></td>
+         <td><a href="./3027"><b>CFJ 3027</b></a></td>
+         <td class="next"><a href="./3028a"><b>3028a&nbsp;&rarr;</b></a></td>
+         <td class="text"><a href="./txt/3027">text</a></td>
+         </tr></table><pre>
+==============================  CFJ 3027  ==============================
+
+    It is POSSIBLE for the above promise to be cashed.
+
+========================================================================
+
+Caller:                                 scshunt
+
+Judge:                                  Murphy
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by scshunt:                      23 May 2011 00:25:39 GMT
+Assigned to Murphy:                     26 May 2011 14:33:13 GMT
+Judged TRUE by Murphy:                  26 May 2011 14:35:46 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+The condition is a false statement; no condition exists that
+requires the player cashing the promise must have registered earlier in
+that message (and no rule would otherwise impose that requirement). Thus
+this condition can never be satisfied.
+
+========================================================================
+
+Caller's Evidence:
+
+On 11-05-17 02:00 PM, Alex Smith wrote:
+> I create the following promise, and transfer it to the Tree:
+> Text: "I register."
+> Conditions: The player who cashes the promise must have registered
+> earlier in the same message in which they cashed the promise.
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+I find it reasonable to interpret "must have registered" in this promise
+as an obvious gloss for "has registered".
+
+========================================================================</pre></body></html>

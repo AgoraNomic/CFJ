@@ -1,0 +1,80 @@
+
+        <html><head><title>CFJ 3126</title>
+        <style>
+            body {
+              font-family: monospace;
+            }
+          table{
+              font: 1em/1.2 "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+              border-collapse: collapse;
+              width: 550px;
+          }         
+         a:link     {text-decoration: none;  color: white;}
+         a:visited  {text-decoration: none;  color: white;}
+         td:hover {background-color: #666;}
+ td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    overflow: hidden;
+    font-size: 1.2em;
+    text-align: center;
+    background-color: #444;
+    color: white;
+}
+.indx{text-align:left; vertical-align:bottom; font-size:100%;}
+.prev{text-align:right; vertical-align:bottom; font-size:85%;}
+.next{text-align:left; vertical-align:bottom; font-size:85%;}
+.text{text-align:right; vertical-align:bottom; font-size:100%;}
+
+td a{
+  display: block;
+  margin: -10cm;
+  padding: 10cm;
+}
+         </style>
+         </head>
+         <body>
+         <table><tr>
+         <td class="indx"><a href="./#3127">Index</a></td>
+         <td class="prev"><a href="./3125"><b>&larr;&nbsp;3125</b></a></td>
+         <td><a href="./3126"><b>CFJ 3126</b></a></td>
+         <td class="next"><a href="./3127"><b>3127&nbsp;&rarr;</b></a></td>
+         <td class="text"><a href="./txt/3126">text</a></td>
+         </tr></table><pre>
+==============================  CFJ 3126  ==============================
+
+    Committing a crime violates the rule defining it as a crime, even if
+    the rule does not explicitly define it as a violation.
+
+========================================================================
+
+Caller:                                 Murphy
+
+Judge:                                  scshunt
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       19 Nov 2011 16:04:58 GMT
+Assigned to scshunt:                    19 Nov 2011 16:42:25 GMT
+Judged TRUE by scshunt:                 20 Nov 2011 17:18:46 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+This should be covered by Rule 754 (3) and/or (4).
+
+I intend (with 2 support) to make this case Notable, suggesting that
+the annotation be attached to Rule 1504 (which only explicitly targets
+rule violations).
+
+========================================================================
+
+Judge scshunt's Arguments:
+
+Going by common sense and the English meaning of the word, TRUE.
+
+========================================================================</pre></body></html>

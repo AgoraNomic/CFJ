@@ -1,0 +1,135 @@
+
+        <html><head><title>CFJ 3181</title>
+        <style>
+            body {
+              font-family: monospace;
+            }
+          table{
+              font: 1em/1.2 "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+              border-collapse: collapse;
+              width: 550px;
+          }         
+         a:link     {text-decoration: none;  color: white;}
+         a:visited  {text-decoration: none;  color: white;}
+         td:hover {background-color: #666;}
+ td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    overflow: hidden;
+    font-size: 1.2em;
+    text-align: center;
+    background-color: #444;
+    color: white;
+}
+.indx{text-align:left; vertical-align:bottom; font-size:100%;}
+.prev{text-align:right; vertical-align:bottom; font-size:85%;}
+.next{text-align:left; vertical-align:bottom; font-size:85%;}
+.text{text-align:right; vertical-align:bottom; font-size:100%;}
+
+td a{
+  display: block;
+  margin: -10cm;
+  padding: 10cm;
+}
+         </style>
+         </head>
+         <body>
+         <table><tr>
+         <td class="indx"><a href="./#3182">Index</a></td>
+         <td class="prev"><a href="./3180"><b>&larr;&nbsp;3180</b></a></td>
+         <td><a href="./3181"><b>CFJ 3181</b></a></td>
+         <td class="next"><a href="./3182"><b>3182&nbsp;&rarr;</b></a></td>
+         <td class="text"><a href="./txt/3181">text</a></td>
+         </tr></table><pre>
+==============================  CFJ 3181  ==============================
+
+    Mr. Incredible changed his name to {'} to deregister.
+
+========================================================================
+
+Caller:                                 FKA441344
+
+Judge:                                  ais523
+Judgement:                              MALFORMED
+
+========================================================================
+
+History:
+
+Called by FKA441344:                    05 Mar 2012 01:03:41 GMT
+Assigned to ais523:                     10 Mar 2012 18:16:29 GMT
+Judged MALFORMED by ais523:             16 Mar 2012 14:49:34 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+ Rule 754:
+ {
+  A difference between two nonempty spans of whitespace is inconsequential
+  in all forms of communication for all purposes.
+ }
+
+========================================================================
+
+Caller's Evidence:
+
+ omd, 17 Feb:
+ {
+  I cause Mr. Incredible to change his name to '. I cause ' to deregister.
+ }
+
+ Golemkeepor's report, 18 Feb[not ratified]:
+ {
+  Fri 17 Feb 03:33  Mr. Incredible changes eir name to '. I cause'.
+ }
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+sigh
+
+========================================================================
+
+Gratuitous Arguments by ehird:
+
+in the context of the full message, the intent
+is clearly for the Slave Golem to choose a confusing name and then
+deregister. True, whitespace is irrelevant, but even collapsing the
+whitespace, the message naturally reads as the intended
+interpretation, and makes no sense at all with the unintended one.
+Additionally, for quoting tricky sections (including punctuation,
+etc.), it is Agoran custom to use more solid enclosures like {}.
+
+========================================================================
+
+Gratuitous Evidence by ehird:
+
+[CotC: quoting omd]
+
+I cause Mr. Incredible to change his name to '.
+
+I cause ' to deregister.  [thus destroying it; Rule 2361's first
+sentence arguably enforces that Slave Golems are always players, but
+both Rule 869 and the right to deregister take precedence]
+
+Now you can't get me because selecting a confusing nickname is not
+defined as a Crime, and you can't get em because e's been destroyed.
+Neener neener.
+
+========================================================================
+
+Judge ais523's Arguments:
+
+I judge CFJs 3180 and 3181 technically MALFORMED, as the sequence of
+characters given as the CFJ "statement" can't be parsed as a statement,
+being nonsensical when interpreted as English and not meaningful in
+other natural languages I know.
+
+In spirit, they're FALSE; the lexing of the ambiguous statement where
+Mr. Incredible was doing that doesn't make sense. In general, if there's
+two different reasonable ways to tokenise a statement, the presumption
+is that it's intended to tokenise via the method that parses correctly.
+
+========================================================================</pre></body></html>

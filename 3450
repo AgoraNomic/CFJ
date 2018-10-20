@@ -1,0 +1,87 @@
+
+        <html><head><title>CFJ 3450</title>
+        <style>
+            body {
+              font-family: monospace;
+            }
+          table{
+              font: 1em/1.2 "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+              border-collapse: collapse;
+              width: 550px;
+          }         
+         a:link     {text-decoration: none;  color: white;}
+         a:visited  {text-decoration: none;  color: white;}
+         td:hover {background-color: #666;}
+ td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    overflow: hidden;
+    font-size: 1.2em;
+    text-align: center;
+    background-color: #444;
+    color: white;
+}
+.indx{text-align:left; vertical-align:bottom; font-size:100%;}
+.prev{text-align:right; vertical-align:bottom; font-size:85%;}
+.next{text-align:left; vertical-align:bottom; font-size:85%;}
+.text{text-align:right; vertical-align:bottom; font-size:100%;}
+
+td a{
+  display: block;
+  margin: -10cm;
+  padding: 10cm;
+}
+         </style>
+         </head>
+         <body>
+         <table><tr>
+         <td class="indx"><a href="./#3451">Index</a></td>
+         <td class="prev"><a href="./3449"><b>&larr;&nbsp;3449</b></a></td>
+         <td><a href="./3450"><b>CFJ 3450</b></a></td>
+         <td class="next"><a href="./3451"><b>3451&nbsp;&rarr;</b></a></td>
+         <td class="text"><a href="./txt/3450">text</a></td>
+         </tr></table><pre>
+==============================  CFJ 3450  ==============================
+
+    Quazie is a player.
+
+========================================================================
+
+Caller:    G.
+Judge:     Roujo
+Judgement: FALSE
+
+========================================================================
+
+Called by G.:                                       04 Aug 2015 05:51:51
+Assigned to Roujo:                                  04 Aug 2015 02:58:33
+Judged FALSE by Roujo:                              06 Aug 2015 02:45:11
+
+========================================================================
+
+<CAGcFSKNnBRj+BYohWiMPkPh4aLKdP0kjQ6_=-_=nchapcL9vCQ@mail.gmail.com>
+Exhibit by Quazie:
+
+I attempt to join agora nomic.  I attempt to leave agora nomic.  I
+wonder if either of those are effective in this bak channel.  I assume
+yes.  I wonder if this message will just be seen as an annoyance, I
+assume maybe.
+
+========================================================================
+
+<CAPM5UJ0MRhUTJWKHo=0erymKY1A5PCTb6OZYb+tAVX1ik3GfFQ@mail.gmail.com>
+Exhibit by omd:
+
+Arguments: I don't see any reason why "I attempt to leave" would be
+ineffective.
+
+========================================================================
+
+Judge's Arguments:
+
+The intent is at least as clear as the preceding one. If neither are
+sufficient, then Quazie never became a player. If both are, e briefly
+was but then left. In both cases, the outcome is the same in regards to
+this CFJ: FALSE.
+
+========================================================================</pre></body></html>

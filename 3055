@@ -1,0 +1,98 @@
+
+        <html><head><title>CFJ 3055</title>
+        <style>
+            body {
+              font-family: monospace;
+            }
+          table{
+              font: 1em/1.2 "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+              border-collapse: collapse;
+              width: 550px;
+          }         
+         a:link     {text-decoration: none;  color: white;}
+         a:visited  {text-decoration: none;  color: white;}
+         td:hover {background-color: #666;}
+ td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    overflow: hidden;
+    font-size: 1.2em;
+    text-align: center;
+    background-color: #444;
+    color: white;
+}
+.indx{text-align:left; vertical-align:bottom; font-size:100%;}
+.prev{text-align:right; vertical-align:bottom; font-size:85%;}
+.next{text-align:left; vertical-align:bottom; font-size:85%;}
+.text{text-align:right; vertical-align:bottom; font-size:100%;}
+
+td a{
+  display: block;
+  margin: -10cm;
+  padding: 10cm;
+}
+         </style>
+         </head>
+         <body>
+         <table><tr>
+         <td class="indx"><a href="./#3056">Index</a></td>
+         <td class="prev"><a href="./3054"><b>&larr;&nbsp;3054</b></a></td>
+         <td><a href="./3055"><b>CFJ 3055</b></a></td>
+         <td class="next"><a href="./3056"><b>3056&nbsp;&rarr;</b></a></td>
+         <td class="text"><a href="./txt/3055">text</a></td>
+         </tr></table><pre>
+=========================  Criminal Case 3055  =========================
+
+    Murphy violated Rule 1868 (Judge Assignment Generally) by failing to
+    assign a judge to the CFJ on "The terms Winning Condition and
+    Victory Condition are synonymous." within a week of its initiation.
+
+========================================================================
+
+Caller:                                 Walker
+Barred:                                 Murphy
+
+Judge:                                  woggle
+Judgement:                              GUILTY/FINE
+
+
+Judge:                                  woggle
+Judgement:                              GUILTY/FINE
+
+========================================================================
+
+History:
+
+Called by Walker:                       29 Jun 2011 21:17:56 GMT
+Defendant Murphy informed:              29 Jun 2011 21:17:56 GMT
+Assigned to woggle:                     04 Jul 2011 17:43:48 GMT
+Judged GUILTY/FINE by woggle:           04 Jul 2011 21:11:12 GMT
+Reconsideration requested by Walker:    05 Jul 2011 09:09:57 GMT
+Reconsideration requested by ehird:     05 Jul 2011 23:48:19 GMT
+Reconsideration requested by G.:        06 Jul 2011 00:02:34 GMT
+Assigned to woggle:                     06 Jul 2011 00:02:34 GMT
+Judged GUILTY/FINE by woggle:           08 Jul 2011 03:50:30 GMT
+
+========================================================================
+
+Judge woggle's Arguments:
+
+I judge CFJ 3055 GUILTY / FINE - 25 points
+
+========================================================================
+
+Request for reconsideration by <function player at 0xb6d4d8b4>:
+
+I intend, with 2 support, to file a motion to reconsider on this
+sentence. 25 Points is the maximum possible fine and about 60% of the
+total points the CotC is awarded for eir work in a month, so I think
+that it is too high.
+
+========================================================================
+
+Judge woggle's Arguments:
+
+I rejudge this GUILTY / FINE - 7 points. (The approximate duration of
+the violation is 5 days at approximately 1.5 points/day of CotC salary.)
+
+========================================================================</pre></body></html>

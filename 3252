@@ -1,0 +1,101 @@
+
+        <html><head><title>CFJ 3252</title>
+        <style>
+            body {
+              font-family: monospace;
+            }
+          table{
+              font: 1em/1.2 "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+              border-collapse: collapse;
+              width: 550px;
+          }         
+         a:link     {text-decoration: none;  color: white;}
+         a:visited  {text-decoration: none;  color: white;}
+         td:hover {background-color: #666;}
+ td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    overflow: hidden;
+    font-size: 1.2em;
+    text-align: center;
+    background-color: #444;
+    color: white;
+}
+.indx{text-align:left; vertical-align:bottom; font-size:100%;}
+.prev{text-align:right; vertical-align:bottom; font-size:85%;}
+.next{text-align:left; vertical-align:bottom; font-size:85%;}
+.text{text-align:right; vertical-align:bottom; font-size:100%;}
+
+td a{
+  display: block;
+  margin: -10cm;
+  padding: 10cm;
+}
+         </style>
+         </head>
+         <body>
+         <table><tr>
+         <td class="indx"><a href="./#3253">Index</a></td>
+         <td class="prev"><a href="./3251"><b>&larr;&nbsp;3251</b></a></td>
+         <td><a href="./3252"><b>CFJ 3252</b></a></td>
+         <td class="next"><a href="./3253"><b>3253&nbsp;&rarr;</b></a></td>
+         <td class="text"><a href="./txt/3252">text</a></td>
+         </tr></table><pre>
+==============================  CFJ 3252  ==============================
+
+    I have cast a vote in the current Promotor election.
+
+========================================================================
+
+Caller:                                 ehird
+
+Judge:                                  Murphy
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by ehird:                        10 Jul 2012 19:25:41 GMT
+Assigned to Murphy:                     16 Jul 2012 05:03:41 GMT
+Judged TRUE by Murphy:                  16 Jul 2012 06:07:28 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+I've honestly forgotten our precedent on this.
+
+========================================================================
+
+Caller's Evidence:
+
+On 10 July 2012 14:26, Elliott Hird <penguinofthegods@googlemail.com> wrote:
+> Ｉ  ｖｏｔｅ  ｆｏｒ  ｓｃｓｈｕｎｔ．
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+These days, it's reasonable to assume that any player can get their
+hands on a GUI with reasonable effort.  According to the Registrar's
+report, most active players (particularly IADoP FKA441344) read Agora
+mail using Gmail, hence a GUI web browser.
+
+This case involves full-width Latin characters, which are part of
+Unicode plane 0 and are widely supported.  Contrast e.g. CFJ 3243,
+which mostly involved emoji characters, which are part of plane 1 and
+are much less widely supported.
+
+========================================================================
+
+Judge Murphy's Evidence:
+
+http://en.wikipedia.org/wiki/Plane_(Unicode)
+http://en.wikipedia.org/wiki/Halfwidth_and_fullwidth_forms
+http://en.wikipedia.org/wiki/Emoji
+
+http://www.fontspace.com/unicode/block/Halfwidth+and+Fullwidth+Forms
+http://www.fontspace.com/unicode/block/Miscellaneous+Symbols+and+Pictographs
+
+========================================================================</pre></body></html>

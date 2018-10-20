@@ -1,0 +1,105 @@
+
+        <html><head><title>CFJ 3371</title>
+        <style>
+            body {
+              font-family: monospace;
+            }
+          table{
+              font: 1em/1.2 "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+              border-collapse: collapse;
+              width: 550px;
+          }         
+         a:link     {text-decoration: none;  color: white;}
+         a:visited  {text-decoration: none;  color: white;}
+         td:hover {background-color: #666;}
+ td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    overflow: hidden;
+    font-size: 1.2em;
+    text-align: center;
+    background-color: #444;
+    color: white;
+}
+.indx{text-align:left; vertical-align:bottom; font-size:100%;}
+.prev{text-align:right; vertical-align:bottom; font-size:85%;}
+.next{text-align:left; vertical-align:bottom; font-size:85%;}
+.text{text-align:right; vertical-align:bottom; font-size:100%;}
+
+td a{
+  display: block;
+  margin: -10cm;
+  padding: 10cm;
+}
+         </style>
+         </head>
+         <body>
+         <table><tr>
+         <td class="indx"><a href="./#3372">Index</a></td>
+         <td class="prev"><a href="./3370"><b>&larr;&nbsp;3370</b></a></td>
+         <td><a href="./3371"><b>CFJ 3371</b></a></td>
+         <td class="next"><a href="./3372"><b>3372&nbsp;&rarr;</b></a></td>
+         <td class="text"><a href="./txt/3371">text</a></td>
+         </tr></table><pre>
+==============================  CFJ 3371  ==============================
+
+    The term 'player' is incorrect.
+
+========================================================================
+
+Caller:                                 lindar
+
+Judge:                                  Fool
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by lindar:                       08 Jul 2013 21:16:55 GMT
+Assigned to Fool:                       15 Jul 2013 17:34:41 GMT
+Judged FALSE by Fool:                   18 Jul 2013 03:10:04 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+The common vernacular for someone who does something is Xor, where a Xor Xes.
+By rule 2408 the 'recordkeepor' is the title for one who keeps records
+(or recordkeepes).
+By rule 2404,2405,1769, and many more, the 'Promotor' is the title for
+one who promotes.
+Therefore, the term 'player' is incorrect.
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+It used to be that "player" and "playor" were obvious synonyms due to
+rule 754, and entirely interchangeable. Given that rule 754 seems to
+have been repealed, though, I'm not sure if that still applies.
+
+========================================================================
+
+Gratuitous Arguments by lindar:
+
+Rule 2337 uses "Player" with a capital P, and 2408 uses "recordkeepor" in all
+small case. Let it be know that I suggest we make this consistent in some
+fashion, and I would prefer it be in favour of using "Playor", but I do not
+now take any action to do anything about it as I am lazy and do no comprehend
+the rules.
+
+========================================================================
+
+Judge Fool's Arguments:
+
+FALSE. I reject the callor's arguments, citing rule 1901 (Foolish
+Consistency). Common vernaculor has its exceptions, and so can Agoran
+doublespeak.
+
+Lindor, I fine you 1 dinnor. I advise you to pay in a timely mannor, because I
+am hungry, and, as rule 1902 says, "a dinnor delayed is a dinnor denied" and
+we don't want to wind up with anothor case like your friend Tannor (CFJ 3357),
+now do we.
+
+========================================================================</pre></body></html>

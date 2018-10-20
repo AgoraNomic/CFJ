@@ -1,0 +1,93 @@
+
+        <html><head><title>CFJ 3182</title>
+        <style>
+            body {
+              font-family: monospace;
+            }
+          table{
+              font: 1em/1.2 "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+              border-collapse: collapse;
+              width: 550px;
+          }         
+         a:link     {text-decoration: none;  color: white;}
+         a:visited  {text-decoration: none;  color: white;}
+         td:hover {background-color: #666;}
+ td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    overflow: hidden;
+    font-size: 1.2em;
+    text-align: center;
+    background-color: #444;
+    color: white;
+}
+.indx{text-align:left; vertical-align:bottom; font-size:100%;}
+.prev{text-align:right; vertical-align:bottom; font-size:85%;}
+.next{text-align:left; vertical-align:bottom; font-size:85%;}
+.text{text-align:right; vertical-align:bottom; font-size:100%;}
+
+td a{
+  display: block;
+  margin: -10cm;
+  padding: 10cm;
+}
+         </style>
+         </head>
+         <body>
+         <table><tr>
+         <td class="indx"><a href="./#3183">Index</a></td>
+         <td class="prev"><a href="./3181"><b>&larr;&nbsp;3181</b></a></td>
+         <td><a href="./3182"><b>CFJ 3182</b></a></td>
+         <td class="next"><a href="./3183"><b>3183&nbsp;&rarr;</b></a></td>
+         <td class="text"><a href="./txt/3182">text</a></td>
+         </tr></table><pre>
+==============================  CFJ 3182  ==============================
+
+    omd is a player.
+
+========================================================================
+
+Caller:                                 ehird
+
+Judge:                                  G.
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by ehird:                        05 Mar 2012 09:41:11 GMT
+Assigned to G.:                         10 Mar 2012 18:17:50 GMT
+Judged TRUE by G.:                      11 Mar 2012 17:35:29 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+If FKA's interpretation of omd's message is correct, then
+Mr. Incredible's name was changed to what it was for the purposes of
+omd deregistering.
+
+========================================================================
+
+Gratuitous Evidence by FKA441344:
+
+ omd wrote:
+ {I cause Mr. Incredible to change his name to '. I cause ' to
+deregister.  [thus destroying it; Rule 2361's first sentence arguably
+enforces that Slave Golems are always players, but both Rule 869 and
+the right to deregister take precedence] Now you can't get me because
+selecting a confusing nickname is not defined as a Crime, and you
+can't get em because e's been destroyed. Neener neener.}
+
+========================================================================
+
+Judge G.'s Arguments:
+
+However Mr. Incredible's name was garbled, only a MiaH could parse this
+as a phrase that could cause omd's deregistration.  In fact, a MiH
+couldn't - despite the slight grammatical confusion created by the
+mildly misplaced verb, forcing "to deregister" to apply to omd rather
+than Mr. I requires a conscious act of willfully stubborn dimwittedness.
+
+========================================================================</pre></body></html>

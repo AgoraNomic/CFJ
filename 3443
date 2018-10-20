@@ -1,0 +1,90 @@
+
+        <html><head><title>CFJ 3443</title>
+        <style>
+            body {
+              font-family: monospace;
+            }
+          table{
+              font: 1em/1.2 "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+              border-collapse: collapse;
+              width: 550px;
+          }         
+         a:link     {text-decoration: none;  color: white;}
+         a:visited  {text-decoration: none;  color: white;}
+         td:hover {background-color: #666;}
+ td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    overflow: hidden;
+    font-size: 1.2em;
+    text-align: center;
+    background-color: #444;
+    color: white;
+}
+.indx{text-align:left; vertical-align:bottom; font-size:100%;}
+.prev{text-align:right; vertical-align:bottom; font-size:85%;}
+.next{text-align:left; vertical-align:bottom; font-size:85%;}
+.text{text-align:right; vertical-align:bottom; font-size:100%;}
+
+td a{
+  display: block;
+  margin: -10cm;
+  padding: 10cm;
+}
+         </style>
+         </head>
+         <body>
+         <table><tr>
+         <td class="indx"><a href="./#3444">Index</a></td>
+         <td class="prev"><a href="./3442"><b>&larr;&nbsp;3442</b></a></td>
+         <td><a href="./3443"><b>CFJ 3443</b></a></td>
+         <td class="next"><a href="./3444"><b>3444&nbsp;&rarr;</b></a></td>
+         <td class="text"><a href="./txt/3443">text</a></td>
+         </tr></table><pre>
+=============================  CFJ 3443  =============================
+
+      The Short Logical Ruleset published by the Rulekeepor on Wed, 15
+      Oct 2014 16:48:31 is misleading and therefore is a violation of
+      Rule 2143 (Official Reports and Duties).
+
+======================================================================
+
+Caller:                      Henri           
+
+Judge:                       G.           
+Judgement:                   FALSE           
+
+======================================================================
+
+History:
+
+Called by Henri:             17 Oct 2014
+Assigned to G.:              10 Nov 2014
+Judged FALSE by G.:          10 Nov 2014
+
+======================================================================
+
+Caller's Arguments:
+
+Line 6 of the Short Logical Ruleset published by the Rulekeepor on
+Wed, 15 Oct 2014 at 16:48:31 is as follows:
+
+"Last change to this ruleset: ???"
+
+What should be displayed after "Last change to this ruleset:" is
+the last number of the Proposal that caused a change to the
+ruleset. Instead, the Rulekeepor substitutes what should be there
+with "???". "???" is not indicative of a proposal ID and therefore
+does not indicate what the "Last change to this ruleset" was.
+Because the Rulekeepor states that the "Last change to this
+Ruleset" was "???", e misleads the Agoran people and keeps the
+"Last change to this Ruleset" forever hidden from the people.
+
+======================================================================
+
+Judge's Arguments:
+
+FALSE. Publishing that something *is* indeterminate is not misleading.
+
+======================================================================
+</pre></body></html>

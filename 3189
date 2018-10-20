@@ -1,0 +1,75 @@
+
+        <html><head><title>CFJ 3189</title>
+        <style>
+            body {
+              font-family: monospace;
+            }
+          table{
+              font: 1em/1.2 "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+              border-collapse: collapse;
+              width: 550px;
+          }         
+         a:link     {text-decoration: none;  color: white;}
+         a:visited  {text-decoration: none;  color: white;}
+         td:hover {background-color: #666;}
+ td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    overflow: hidden;
+    font-size: 1.2em;
+    text-align: center;
+    background-color: #444;
+    color: white;
+}
+.indx{text-align:left; vertical-align:bottom; font-size:100%;}
+.prev{text-align:right; vertical-align:bottom; font-size:85%;}
+.next{text-align:left; vertical-align:bottom; font-size:85%;}
+.text{text-align:right; vertical-align:bottom; font-size:100%;}
+
+td a{
+  display: block;
+  margin: -10cm;
+  padding: 10cm;
+}
+         </style>
+         </head>
+         <body>
+         <table><tr>
+         <td class="indx"><a href="./#3190">Index</a></td>
+         <td class="prev"><a href="./3188"><b>&larr;&nbsp;3188</b></a></td>
+         <td><a href="./3189"><b>CFJ 3189</b></a></td>
+         <td class="next"><a href="./3190"><b>3190&nbsp;&rarr;</b></a></td>
+         <td class="text"><a href="./txt/3189">text</a></td>
+         </tr></table><pre>
+==============================  CFJ 3189  ==============================
+
+    I am Spartacus.
+
+========================================================================
+
+Caller:                                 ehird
+
+Judge:                                  G.
+Judgement:                              
+
+
+Judge:                                  omd
+Judgement:                              
+
+
+Judge:                                  Murphy
+Judgement:                              IRRELEVANT
+
+========================================================================
+
+History:
+
+Called by ehird:                        14 Mar 2012 08:53:20 GMT
+Assigned to G.:                         20 Mar 2012 16:07:13 GMT
+G. recused:                             20 Mar 2012 16:45:17 GMT
+Assigned to omd:                        29 Mar 2012 06:24:32 GMT
+omd recused:                            06 May 2012 18:11:12 GMT
+Assigned to Murphy:                     06 May 2012 18:12:35 GMT
+Judged IRRELEVANT by Murphy:            06 May 2012 20:50:29 GMT
+
+========================================================================</pre></body></html>

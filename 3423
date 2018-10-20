@@ -1,0 +1,91 @@
+
+        <html><head><title>CFJ 3423</title>
+        <style>
+            body {
+              font-family: monospace;
+            }
+          table{
+              font: 1em/1.2 "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+              border-collapse: collapse;
+              width: 550px;
+          }         
+         a:link     {text-decoration: none;  color: white;}
+         a:visited  {text-decoration: none;  color: white;}
+         td:hover {background-color: #666;}
+ td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    overflow: hidden;
+    font-size: 1.2em;
+    text-align: center;
+    background-color: #444;
+    color: white;
+}
+.indx{text-align:left; vertical-align:bottom; font-size:100%;}
+.prev{text-align:right; vertical-align:bottom; font-size:85%;}
+.next{text-align:left; vertical-align:bottom; font-size:85%;}
+.text{text-align:right; vertical-align:bottom; font-size:100%;}
+
+td a{
+  display: block;
+  margin: -10cm;
+  padding: 10cm;
+}
+         </style>
+         </head>
+         <body>
+         <table><tr>
+         <td class="indx"><a href="./#3424">Index</a></td>
+         <td class="prev"><a href="./3422"><b>&larr;&nbsp;3422</b></a></td>
+         <td><a href="./3423"><b>CFJ 3423</b></a></td>
+         <td class="next"><a href="./3424"><b>3424&nbsp;&rarr;</b></a></td>
+         <td class="text"><a href="./txt/3423">text</a></td>
+         </tr></table><pre>
+==============================  CFJ 3423  ==============================
+
+    The above-quoted statement is true.
+
+========================================================================
+
+Caller:     ais523
+
+========================================================================
+
+Called by ais523:                                   24 Jul 2014 11:27:00
+Assigned to G.:                                     24 Jul 2014 19:00:02
+Judged True:                                        24 Jul 2014 19:00:02
+Moot intent by G.:                                  24 Jul 2014 19:00:02
+Moot intent by Sprocklem:                           24 Jul 2014 19:33:13
+Mooted by omd:                                      24 Jul 2014 22:37:40
+
+========================================================================
+
+<1406215617.6419.3.camel@tundra>
+Exhibit by ais523:
+
+On Wed, 2014-07-23 at 22:22 -0700, Kerim Aydin wrote:
+>
+> I have a score at least equal to the goal, and at least as much
+> score as any other player, so I claim victory, naming myself
+> only.  -G.
+CFJ: The above-quoted statement is true.
+
+========================================================================
+
+<alpine.LRH.2.01.1407241558570.23744@hymn01.u.washington.edu>
+Exhibit by G.:
+
+I shamelessly assign this CFJ to myself, as I am the most interested
+in it.  I judge it TRUE.  I intend to enter this judgement into Moot
+with 2 support.  -G.
+
+========================================================================
+
+<CAPM5UJ26xVktc+FF_3UQecQAE8HDpV9cLxiFxQFktQPYSnmXhQ@mail.gmail.com>
+Exhibit by omd:
+
+I publish the following Brief: FALSE, because I put G. at 172 points,
+fewer than Henri, scshunt, and omd.
+
+========================================================================
+</pre></body></html>

@@ -1,0 +1,103 @@
+
+        <html><head><title>CFJ 3302</title>
+        <style>
+            body {
+              font-family: monospace;
+            }
+          table{
+              font: 1em/1.2 "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+              border-collapse: collapse;
+              width: 550px;
+          }         
+         a:link     {text-decoration: none;  color: white;}
+         a:visited  {text-decoration: none;  color: white;}
+         td:hover {background-color: #666;}
+ td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    overflow: hidden;
+    font-size: 1.2em;
+    text-align: center;
+    background-color: #444;
+    color: white;
+}
+.indx{text-align:left; vertical-align:bottom; font-size:100%;}
+.prev{text-align:right; vertical-align:bottom; font-size:85%;}
+.next{text-align:left; vertical-align:bottom; font-size:85%;}
+.text{text-align:right; vertical-align:bottom; font-size:100%;}
+
+td a{
+  display: block;
+  margin: -10cm;
+  padding: 10cm;
+}
+         </style>
+         </head>
+         <body>
+         <table><tr>
+         <td class="indx"><a href="./#3303">Index</a></td>
+         <td class="prev"><a href="./3301"><b>&larr;&nbsp;3301</b></a></td>
+         <td><a href="./3302"><b>CFJ 3302</b></a></td>
+         <td class="next"><a href="./3303"><b>3303&nbsp;&rarr;</b></a></td>
+         <td class="text"><a href="./txt/3302">text</a></td>
+         </tr></table><pre>
+==============================  CFJ 3302  ==============================
+
+    scshunt CAN, by announcement, cause a proposal to take effect.
+
+========================================================================
+
+Caller:                                 Wes
+
+Judge:                                  Murphy
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Wes:                          10 Apr 2013 18:16:46 GMT
+Assigned to Murphy:                     14 Apr 2013 07:36:21 GMT
+Judged FALSE by Murphy:                 14 Apr 2013 07:40:53 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+We believe this statement to be false, as it conflicts with Rule 106,
+which states:
+
+      If there is no Agoran Decision to adopt a particular proposal
+      that has an outcome of ADOPTED, that proposal CANNOT take
+      effect, rules to the contrary notwithstanding.
+
+This would appear to be a clear conflict, and as Rule 106 has greater
+Power, this would appear to render that element of Rule 2380
+ineffective.
+
+========================================================================
+
+Gratuitous Arguments by Machiavelli:
+
+for Agoran Decisions that do not have an outcome of
+ADOPTED, I think the answer is uncontroversially FALSE. For Agoran
+Decisions that do have an outcome of ADOPTED (and, in particular, ones
+with a Power greater than 1), the question is more interesting.
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+That clause was intended to allow scshunt to cause a high-AI proposal that had
+previously been adopted (so high-Power) to take effect again.  It was ruled in
+CFJ 3277 that this constitutes a substantive change to the proposal and so
+fails.
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+scshunt can do this for some proposals (AI = 1 and
+outcome = ADOPTED) but not others.
+
+========================================================================</pre></body></html>

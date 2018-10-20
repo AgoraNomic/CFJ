@@ -1,0 +1,113 @@
+
+        <html><head><title>CFJ 3225</title>
+        <style>
+            body {
+              font-family: monospace;
+            }
+          table{
+              font: 1em/1.2 "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+              border-collapse: collapse;
+              width: 550px;
+          }         
+         a:link     {text-decoration: none;  color: white;}
+         a:visited  {text-decoration: none;  color: white;}
+         td:hover {background-color: #666;}
+ td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    overflow: hidden;
+    font-size: 1.2em;
+    text-align: center;
+    background-color: #444;
+    color: white;
+}
+.indx{text-align:left; vertical-align:bottom; font-size:100%;}
+.prev{text-align:right; vertical-align:bottom; font-size:85%;}
+.next{text-align:left; vertical-align:bottom; font-size:85%;}
+.text{text-align:right; vertical-align:bottom; font-size:100%;}
+
+td a{
+  display: block;
+  margin: -10cm;
+  padding: 10cm;
+}
+         </style>
+         </head>
+         <body>
+         <table><tr>
+         <td class="indx"><a href="./#3226">Index</a></td>
+         <td class="prev"><a href="./3224"><b>&larr;&nbsp;3224</b></a></td>
+         <td><a href="./3225"><b>CFJ 3225</b></a></td>
+         <td class="next"><a href="./3226"><b>3226&nbsp;&rarr;</b></a></td>
+         <td class="text"><a href="./txt/3225">text</a></td>
+         </tr></table><pre>
+==============================  CFJ 3225  ==============================
+
+    As [whatever Tanner's name is this month] didn't actually do
+    anything, this is ineffective.
+
+========================================================================
+
+Caller:                                 ehird
+
+Judge:                                  G.
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by ehird:                        04 Jun 2012 15:09:58 GMT
+Assigned to G.:                         12 Jun 2012 14:36:34 GMT
+Judged FALSE by G.:                     12 Jun 2012 16:29:46 GMT
+
+========================================================================
+
+Caller's Evidence:
+
+The following email sent by omd:
+
+{{{
+I do what he just did.
+
+Sent from my iPhone
+
+
+
+On Jun 3, 2012, at 4:20 PM, Tanner Swett <swettt@mail.gvsu.edu> wrote:
+
+> On Sun, Jun 3, 2012 at 6:33 PM, omd <c.ome.xk@gmail.com> wrote:
+>> CFJ: "Sun, 27 May 2012 14:14:46 +0100".
+> I retract this case.
+>
+> ―Machiavelli
+}}}
+
+========================================================================
+
+Gratuitous Arguments by Murphy:
+
+Machiavelli did do something (announce "I retract this case"), which
+could lead to FALSE both trivially and substantively (if "what he just
+did" is interpreted as referring to "announce 'I retract this case'").
+
+========================================================================
+
+Judge G.'s Arguments:
+
+As the caller points out, there are a couple possible referents for
+"what he just did", with different legal consequences:
+
+1. Retract a case (which e *didn't* just do).
+2. Post a message stating "I retract this case" (which e *did* just do).
+
+Given the general tomfoolery and meta-tomfoolery around this set of
+messages, it is not immediately clear what was being referred to or what
+was intended, therefore the omd's retraction message failed to retract
+a CFJ, due to unclear communication.
+
+However, the Caller has asked me to judge whether omd's message was
+ineffective *due to* Tanner's action failing.  It wasn't.  It was
+ineffective because it was in and of itself an unclear message.
+
+========================================================================</pre></body></html>

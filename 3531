@@ -1,0 +1,87 @@
+
+        <html><head><title>CFJ 3531</title>
+        <style>
+            body {
+              font-family: monospace;
+            }
+          table{
+              font: 1em/1.2 "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+              border-collapse: collapse;
+              width: 550px;
+          }         
+         a:link     {text-decoration: none;  color: white;}
+         a:visited  {text-decoration: none;  color: white;}
+         td:hover {background-color: #666;}
+ td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    overflow: hidden;
+    font-size: 1.2em;
+    text-align: center;
+    background-color: #444;
+    color: white;
+}
+.indx{text-align:left; vertical-align:bottom; font-size:100%;}
+.prev{text-align:right; vertical-align:bottom; font-size:85%;}
+.next{text-align:left; vertical-align:bottom; font-size:85%;}
+.text{text-align:right; vertical-align:bottom; font-size:100%;}
+
+td a{
+  display: block;
+  margin: -10cm;
+  padding: 10cm;
+}
+         </style>
+         </head>
+         <body>
+         <table><tr>
+         <td class="indx"><a href="./#3532">Index</a></td>
+         <td class="prev"><a href="./3530"><b>&larr;&nbsp;3530</b></a></td>
+         <td><a href="./3531"><b>CFJ 3531</b></a></td>
+         <td class="next"><a href="./3532"><b>3532&nbsp;&rarr;</b></a></td>
+         <td class="text"><a href="./txt/3531">text</a></td>
+         </tr></table><pre>
+==============================  CFJ 3531  ==============================
+
+      A player other than the ADoP may initiate elections for an office
+      by announcement if that office has been deputized for within the
+      last 2 weeks or no election has occured for that office within the
+      last 90 days. V.J. Rada initiated 3 such elections on 27 June.
+
+========================================================================
+
+Caller:                       V.J Rada 
+
+Judge:                        omd
+Judgement:                    DISMISS
+
+========================================================================
+
+History:
+
+Called by V.J Rada:           28 Jun 2017                    
+Assigned to omd:              28 Jun 2017    
+Judged DISMISS by omd:        29 Jun 2017
+
+========================================================================
+
+Caller's Arguments:
+
+I request that the judge (oh, I bar CuddleBeam) take
+notice of the agora discussion thread beginning with
+me calling those elections.
+
+The first message in the thread in question is archived here, along
+with links to the others:
+<http://www.mail-archive.com/agora-discussion@agoranomic.org/msg36452.html>
+
+========================================================================
+
+Judge omd's Arguments:
+
+Since I feel like being a stickler, DISMISS for malformed statement
+(which is actually two different statements with no logical
+connective).
+
+========================================================================
+</pre></body></html>

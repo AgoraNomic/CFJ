@@ -1,0 +1,73 @@
+
+        <html><head><title>CFJ 3079</title>
+        <style>
+            body {
+              font-family: monospace;
+            }
+          table{
+              font: 1em/1.2 "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+              border-collapse: collapse;
+              width: 550px;
+          }         
+         a:link     {text-decoration: none;  color: white;}
+         a:visited  {text-decoration: none;  color: white;}
+         td:hover {background-color: #666;}
+ td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    overflow: hidden;
+    font-size: 1.2em;
+    text-align: center;
+    background-color: #444;
+    color: white;
+}
+.indx{text-align:left; vertical-align:bottom; font-size:100%;}
+.prev{text-align:right; vertical-align:bottom; font-size:85%;}
+.next{text-align:left; vertical-align:bottom; font-size:85%;}
+.text{text-align:right; vertical-align:bottom; font-size:100%;}
+
+td a{
+  display: block;
+  margin: -10cm;
+  padding: 10cm;
+}
+         </style>
+         </head>
+         <body>
+         <table><tr>
+         <td class="indx"><a href="./#3080">Index</a></td>
+         <td class="prev"><a href="./3078"><b>&larr;&nbsp;3078</b></a></td>
+         <td><a href="./3079"><b>CFJ 3079</b></a></td>
+         <td class="next"><a href="./3080"><b>3080&nbsp;&rarr;</b></a></td>
+         <td class="text"><a href="./txt/3079">text</a></td>
+         </tr></table><pre>
+=========================  Criminal Case 3079  =========================
+
+    Murphy violated Rule 1504 (Criminal Cases) by failing to destroy or
+    transfer to the L&F Department the 7 Points e was FINED in relation
+    to CFJ 3055 within the time limit.
+
+========================================================================
+
+Caller:                                 Walker
+Barred:                                 Murphy
+
+Judge:                                  scshunt
+Judgement:                              GUILTY/APOLOGY
+
+========================================================================
+
+History:
+
+Called by Walker:                       05 Aug 2011 13:32:56 GMT
+Defendant Murphy informed:              05 Aug 2011 13:32:56 GMT
+Assigned to scshunt:                    08 Aug 2011 15:50:49 GMT
+Judged GUILTY/APOLOGY by scshunt:       08 Aug 2011 20:29:30 GMT
+
+========================================================================
+
+Judge scshunt's Arguments:
+
+GUILTY/APOLOGY ("insincere")
+
+========================================================================</pre></body></html>

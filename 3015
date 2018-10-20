@@ -1,0 +1,122 @@
+
+        <html><head><title>CFJ 3015</title>
+        <style>
+            body {
+              font-family: monospace;
+            }
+          table{
+              font: 1em/1.2 "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+              border-collapse: collapse;
+              width: 550px;
+          }         
+         a:link     {text-decoration: none;  color: white;}
+         a:visited  {text-decoration: none;  color: white;}
+         td:hover {background-color: #666;}
+ td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    overflow: hidden;
+    font-size: 1.2em;
+    text-align: center;
+    background-color: #444;
+    color: white;
+}
+.indx{text-align:left; vertical-align:bottom; font-size:100%;}
+.prev{text-align:right; vertical-align:bottom; font-size:85%;}
+.next{text-align:left; vertical-align:bottom; font-size:85%;}
+.text{text-align:right; vertical-align:bottom; font-size:100%;}
+
+td a{
+  display: block;
+  margin: -10cm;
+  padding: 10cm;
+}
+         </style>
+         </head>
+         <body>
+         <table><tr>
+         <td class="indx"><a href="./#3016">Index</a></td>
+         <td class="prev"><a href="./3014"><b>&larr;&nbsp;3014</b></a></td>
+         <td><a href="./3015"><b>CFJ 3015</b></a></td>
+         <td class="next"><a href="./3016"><b>3016&nbsp;&rarr;</b></a></td>
+         <td class="text"><a href="./txt/3015">text</a></td>
+         </tr></table><pre>
+==============================  CFJ 3015  ==============================
+
+    I created points more than once in this message.
+
+========================================================================
+
+Caller:                                 omd
+
+Judge:                                  Murphy
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by omd:                          30 Apr 2011 20:41:01 GMT
+Assigned to Murphy:                     15 May 2011 23:28:29 GMT
+Judged FALSE by Murphy:                 15 May 2011 23:47:05 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+It's true that "a judicial question on culpability is judged after a
+number of the Accused's points have been destroyed due to the
+associated notice", or at least that one has been judged; it doesn't
+make much sense to require that the points be recreated while the
+judgement is being assigned.
+
+My first attempt to recreate points should have unambiguously succeeded.
+
+My second attempt was not intended to be possible, but it may have
+succeeded; even under the non-fungible interpretation of points
+suggested by the term "recreate", the points in question did not exist
+and should have been eligible for recreation.
+
+My third through one hundred twenty-sixth attempts might have
+succeeded if the fungibility of points makes tracking whether "they"
+were already recreated nonsensical.
+
+========================================================================
+
+Caller's Evidence:
+
+On Sat, Apr 30, 2011 at 6:41 AM, Charles Walker
+<charles.w.walker@gmail.com> wrote:
+> On 28 April 2011 14:42, Ed Murphy <emurphy42@socal.rr.com> wrote:
+>> =========================  Criminal Case 3012  =========================
+>>
+>>    I violated Rule 2158 by failing to assign a judgement to CFJ
+>>    2664 ASAP.
+>>
+>> ========================================================================
+>
+> NOT GUILTY as per the caller's arguments.
+
+I recreate 2 points in my possession as allowed by R1504.
+
+I destroy those points.
+
+I recreate them again.
+
+124 times, I recreate them again.
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+"CAN recreate those points" is an obvious gloss for "CAN once
+recreate that number of points".  In particular, while points
+themselves are fungible, attempted acts of point creation can be
+distinguished, as can the context of such attempted acts.
+
+There's also "When" at the beginning of the relevant paragraph of
+R1504, but I think there's precedent that "requirement" in R1023(a)
+extends to "required in order to perform <action>", not just "required
+to avoid violating the rules".
+
+========================================================================</pre></body></html>

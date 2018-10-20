@@ -1,0 +1,121 @@
+
+        <html><head><title>CFJ 3293</title>
+        <style>
+            body {
+              font-family: monospace;
+            }
+          table{
+              font: 1em/1.2 "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+              border-collapse: collapse;
+              width: 550px;
+          }         
+         a:link     {text-decoration: none;  color: white;}
+         a:visited  {text-decoration: none;  color: white;}
+         td:hover {background-color: #666;}
+ td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    overflow: hidden;
+    font-size: 1.2em;
+    text-align: center;
+    background-color: #444;
+    color: white;
+}
+.indx{text-align:left; vertical-align:bottom; font-size:100%;}
+.prev{text-align:right; vertical-align:bottom; font-size:85%;}
+.next{text-align:left; vertical-align:bottom; font-size:85%;}
+.text{text-align:right; vertical-align:bottom; font-size:100%;}
+
+td a{
+  display: block;
+  margin: -10cm;
+  padding: 10cm;
+}
+         </style>
+         </head>
+         <body>
+         <table><tr>
+         <td class="indx"><a href="./#3294">Index</a></td>
+         <td class="prev"><a href="./3292"><b>&larr;&nbsp;3292</b></a></td>
+         <td><a href="./3293"><b>CFJ 3293</b></a></td>
+         <td class="next"><a href="./3294"><b>3294&nbsp;&rarr;</b></a></td>
+         <td class="text"><a href="./txt/3293">text</a></td>
+         </tr></table><pre>
+==============================  CFJ 3293  ==============================
+
+    With 1.5 Agoran consent, I CAN destroy the Lost and Found
+    Department.
+
+========================================================================
+
+Caller:                                 woggle
+
+Judge:                                  Machiavelli
+Judgement:                              IRRELEVANT
+
+
+Judge:                                  Machiavelli
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by woggle:                       20 Jan 2013 06:01:24 GMT
+Assigned to Machiavelli:                09 Feb 2013 17:50:11 GMT
+Judged IRRELEVANT by Machiavelli:       09 Feb 2013 21:59:49 GMT
+Reconsideration requested by omd:       09 Feb 2013 22:03:57 GMT
+Reconsideration requested by G.:        11 Feb 2013 02:44:21 GMT
+Reconsideration requested by Machiavelli:
+                                        11 Feb 2013 17:32:56 GMT
+Assigned to Machiavelli:                11 Feb 2013 17:32:56 GMT
+Judged FALSE by Machiavelli:            11 Feb 2013 17:32:56 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+The Lost and Found Department is a Marine (an asset) and owned by itself.
+
+========================================================================
+
+Judge Machiavelli's Arguments:
+
+As Rule 2386 "Belligerence" has been repealed, the mechanism by which
+Marines purportedly could be destroyed no longer exists; therefore, I
+judge IRRELEVANT.
+
+If Rule 2386 had not been repealed, I believe this would be false; per
+CFJ 3290, Rule 2386 failed to define marines as units.
+
+========================================================================
+
+Request for reconsideration by <function player at 0xb6d4d6f4>:
+
+The phrasing of the IRRELEVANT clause is in a subordinate clause to the
+overreaching statement of timing in R591, so it is far more reasonable
+to go with the actual wording than a minor grammatical inconsistency.
+
+========================================================================
+
+Request for reconsideration by <function player at 0xb6d4d6f4>:
+
+As I see it, there is no inconsistency here. Truth values are
+evaluated at the time the inquiry case was initiated, and everything
+else is evaluated at the time the inquiry case is judged; that is what
+the rules say, and nothing in the rules contradicts this. In my
+opinion, common sense also agrees with this interpretation: the
+relevance of the statement at the time the case was initiated is less
+important than the relevance of the statement at the time the case is
+judged.
+
+========================================================================
+
+Judge Machiavelli's Arguments:
+
+per CFJ 3290, Rule 2386 failed to define marines as units. Therefore,
+the Lost and Found Department, despite being a Marine, was not a unit,
+and thus was not an asset, and thus was not owned by the Lost and
+Found Department.
+
+========================================================================</pre></body></html>

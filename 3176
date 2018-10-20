@@ -1,0 +1,70 @@
+
+        <html><head><title>CFJ 3176</title>
+        <style>
+            body {
+              font-family: monospace;
+            }
+          table{
+              font: 1em/1.2 "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+              border-collapse: collapse;
+              width: 550px;
+          }         
+         a:link     {text-decoration: none;  color: white;}
+         a:visited  {text-decoration: none;  color: white;}
+         td:hover {background-color: #666;}
+ td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    overflow: hidden;
+    font-size: 1.2em;
+    text-align: center;
+    background-color: #444;
+    color: white;
+}
+.indx{text-align:left; vertical-align:bottom; font-size:100%;}
+.prev{text-align:right; vertical-align:bottom; font-size:85%;}
+.next{text-align:left; vertical-align:bottom; font-size:85%;}
+.text{text-align:right; vertical-align:bottom; font-size:100%;}
+
+td a{
+  display: block;
+  margin: -10cm;
+  padding: 10cm;
+}
+         </style>
+         </head>
+         <body>
+         <table><tr>
+         <td class="indx"><a href="./#3177">Index</a></td>
+         <td class="prev"><a href="./3175"><b>&larr;&nbsp;3175</b></a></td>
+         <td><a href="./3176"><b>CFJ 3176</b></a></td>
+         <td class="next"><a href="./3177"><b>3177&nbsp;&rarr;</b></a></td>
+         <td class="text"><a href="./txt/3176">text</a></td>
+         </tr></table><pre>
+==============================  CFJ 3176  ==============================
+
+    The Registrar's Report includes within its list of all players a
+    list of all Golems.
+
+========================================================================
+
+Caller:                                 Yally
+
+Judge:                                  omd
+Judgement:                              UNDETERMINED
+
+========================================================================
+
+History:
+
+Called by Yally:                        18 Feb 2012 20:05:58 GMT
+Assigned to omd:                        09 Mar 2012 02:59:44 GMT
+Judged UNDETERMINED by omd:             09 Mar 2012 08:21:04 GMT
+
+========================================================================
+
+Judge omd's Arguments:
+
+UNDETERMINED, CFJ 1769.
+
+========================================================================</pre></body></html>

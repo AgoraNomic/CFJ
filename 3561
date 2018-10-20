@@ -1,0 +1,119 @@
+
+        <html><head><title>CFJ 3561</title>
+        <style>
+            body {
+              font-family: monospace;
+            }
+          table{
+              font: 1em/1.2 "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+              border-collapse: collapse;
+              width: 550px;
+          }         
+         a:link     {text-decoration: none;  color: white;}
+         a:visited  {text-decoration: none;  color: white;}
+         td:hover {background-color: #666;}
+ td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    overflow: hidden;
+    font-size: 1.2em;
+    text-align: center;
+    background-color: #444;
+    color: white;
+}
+.indx{text-align:left; vertical-align:bottom; font-size:100%;}
+.prev{text-align:right; vertical-align:bottom; font-size:85%;}
+.next{text-align:left; vertical-align:bottom; font-size:85%;}
+.text{text-align:right; vertical-align:bottom; font-size:100%;}
+
+td a{
+  display: block;
+  margin: -10cm;
+  padding: 10cm;
+}
+         </style>
+         </head>
+         <body>
+         <table><tr>
+         <td class="indx"><a href="./#3562">Index</a></td>
+         <td class="prev"><a href="./3560"><b>&larr;&nbsp;3560</b></a></td>
+         <td><a href="./3561"><b>CFJ 3561</b></a></td>
+         <td class="next"><a href="./3562"><b>3562&nbsp;&rarr;</b></a></td>
+         <td class="text"><a href="./txt/3561">text</a></td>
+         </tr></table><pre>
+==============================  CFJ 3561  ==============================
+
+      In the above-quoted message, Gaelan destroyed exactly zero stamps.
+
+========================================================================
+
+Caller:                       o
+
+Judge:                        
+Judgement:                    
+
+========================================================================
+
+History:
+
+Called by o:                  7 Sep 2017                    
+Assigned to:                  
+
+========================================================================
+
+Caller's Arguments:
+
+Rule 2498 (“Economic Wins”) states, in part:
+
+> Players MAY, by announcement, destroy a Stamp and cause Agora to
+> transfer the Stamp Value, in shinies, to em.
+
+Under rule 2125 (“Regulated Actions”), destroying Stamps is restricted:
+
+> An action is restricted if:
+> ...
+> (3) the action would, as part of its effect, modify information for
+> which some player is required to be a recordkeepor.
+
+The recordkeepor of Stamps is, under rule 2498 (“Stamps”), the Secretary.
+
+Therefore, it is not possible to destroy stamps through any mechanism
+described in rule 2498. Rule 2166 (“Assets”) does provide a mechanism
+for destroying stamps:
+
+> An asset generally CAN be destroyed by its owner by announcement,
+> subject to modification by its backing document.
+
+This power is not restricted by the backing document for stamps, but
+Gaelen did not own any stamps at that time.
+
+Therefore, no stamps were destroyed by Gaelan’s actions.
+
+========================================================================
+
+Caller's Evidence:
+
+On Sep 7, 2017, at 3:14 AM, Gaelan Steele <gbs@canishe.com> wrote:
+
+> OK, I’m just gonna do the scam properly so I can stop keeping secrets 
+> and whatnot.
+> 
+> For each player by reverse order of first registration, I destroy eir
+> stamps one at a time, causing Agora to give me the stamp value in
+> shinies for each, until Agora can no longer afford to do so.
+> 
+> That was your mistake, cuddle—I didn’t realize the exact numbers at 
+> the time of my first message, but in fact VJ’s reward brought Agora’s
+> shinies below 36 (9 stamps in existence * 4 per stamp), which meant
+> that cuddle’s most recent attempt failed because he didn’t specify
+> which stamps e wanted to remain.
+> 
+> If I successfully destroyed at least one stamp above, I give 
+> CuddleBeam a Consolation Prize of 10 shinies. I am happy to provide 
+> some of my stolen shinies to ensure the proper functioning of the
+> game.
+> 
+> Gaelan
+
+========================================================================
+</pre></body></html>

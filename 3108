@@ -1,0 +1,111 @@
+
+        <html><head><title>CFJ 3108</title>
+        <style>
+            body {
+              font-family: monospace;
+            }
+          table{
+              font: 1em/1.2 "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+              border-collapse: collapse;
+              width: 550px;
+          }         
+         a:link     {text-decoration: none;  color: white;}
+         a:visited  {text-decoration: none;  color: white;}
+         td:hover {background-color: #666;}
+ td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    overflow: hidden;
+    font-size: 1.2em;
+    text-align: center;
+    background-color: #444;
+    color: white;
+}
+.indx{text-align:left; vertical-align:bottom; font-size:100%;}
+.prev{text-align:right; vertical-align:bottom; font-size:85%;}
+.next{text-align:left; vertical-align:bottom; font-size:85%;}
+.text{text-align:right; vertical-align:bottom; font-size:100%;}
+
+td a{
+  display: block;
+  margin: -10cm;
+  padding: 10cm;
+}
+         </style>
+         </head>
+         <body>
+         <table><tr>
+         <td class="indx"><a href="./#3109">Index</a></td>
+         <td class="prev"><a href="./3107"><b>&larr;&nbsp;3107</b></a></td>
+         <td><a href="./3108"><b>CFJ 3108</b></a></td>
+         <td class="next"><a href="./3109"><b>3109&nbsp;&rarr;</b></a></td>
+         <td class="text"><a href="./txt/3108">text</a></td>
+         </tr></table><pre>
+==============================  CFJ 3108  ==============================
+
+    AmarChandra Ganna is a player
+
+========================================================================
+
+Caller:                                 Bucky
+
+Judge:                                  Pavitra
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Bucky:                        21 Oct 2011 17:42:16 GMT
+Assigned to Pavitra:                    22 Oct 2011 02:51:41 GMT
+Judged FALSE by Pavitra:                22 Oct 2011 03:20:21 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Eir attempt to vote in an election is a clear indicator that e wishes to act
+as a player.
+
+========================================================================
+
+Caller's Evidence:
+
+From: AmarChandra Ganna <amarchandra.ganna@gmail.com>
+To: "agora-business@agoranomic.org" <agora-business@agoranomic.org>
+Sent: Friday, October 21, 2011 11:03 AM
+Subject: BUS: I support Sgeo
+
+I vote for Sgeo.
+
+....@m@¥
+
+Sent from my Jail-broken iPhone
+
+========================================================================
+
+Judge Pavitra's Arguments:
+
+While we're usually fairly liberal about judging registration by intent,
+most registration attempts share the key feature that they indicate an
+awareness on the message sender's part of the concept of registration.
+This message does not.
+
+In addition, CFJ 1709 distinguishes de jure playerhood from the de facto
+status of playing the game. Thus, taking rule-defined actions does not
+necessarily imply a desire to be a player.
+
+For comparison, suppose that AmarChandra Ganna had called a CFJ rather
+than attempting to vote; this action would have succeeded even in the
+absence of registration. In this case, e would almost certainly not have
+thereby registered.
+
+To make eir registration hang on its being a prerequisite for the
+success of a different attempted action seems wrong; actions whose
+prerequisites are unmet generally fail.
+
+The interpretation of the registration rule is inherently subjective,
+but I feel that all of these considerations together add up to a serious
+doubt about AmarChandra Ganna's intent to register. FALSE.
+
+========================================================================</pre></body></html>

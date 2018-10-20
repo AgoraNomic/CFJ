@@ -1,0 +1,98 @@
+
+        <html><head><title>CFJ 3188</title>
+        <style>
+            body {
+              font-family: monospace;
+            }
+          table{
+              font: 1em/1.2 "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+              border-collapse: collapse;
+              width: 550px;
+          }         
+         a:link     {text-decoration: none;  color: white;}
+         a:visited  {text-decoration: none;  color: white;}
+         td:hover {background-color: #666;}
+ td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    overflow: hidden;
+    font-size: 1.2em;
+    text-align: center;
+    background-color: #444;
+    color: white;
+}
+.indx{text-align:left; vertical-align:bottom; font-size:100%;}
+.prev{text-align:right; vertical-align:bottom; font-size:85%;}
+.next{text-align:left; vertical-align:bottom; font-size:85%;}
+.text{text-align:right; vertical-align:bottom; font-size:100%;}
+
+td a{
+  display: block;
+  margin: -10cm;
+  padding: 10cm;
+}
+         </style>
+         </head>
+         <body>
+         <table><tr>
+         <td class="indx"><a href="./#3189">Index</a></td>
+         <td class="prev"><a href="./3187"><b>&larr;&nbsp;3187</b></a></td>
+         <td><a href="./3188"><b>CFJ 3188</b></a></td>
+         <td class="next"><a href="./3189"><b>3189&nbsp;&rarr;</b></a></td>
+         <td class="text"><a href="./txt/3188">text</a></td>
+         </tr></table><pre>
+==============================  CFJ 3188  ==============================
+
+    I am Mr. Snuggles.
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  scshunt
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by ais523:                       14 Mar 2012 08:16:36 GMT
+Assigned to scshunt:                    20 Mar 2012 16:02:35 GMT
+Judged FALSE by scshunt:                20 Mar 2012 16:21:31 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Is a mere statement by me that I'm not Mr. Snuggles
+sufficient evidence to find that I'm not Mr. Snuggles? (Note that Mr.
+Snuggles' statements are not compatible with em being me either.) Note
+that this CFJ is relevant because Mr. Snuggles' actual identity is
+certainly relevant given all the actions e's attempted to perform (and
+if it were discovered, eir actions as Mr. Snuggles would presumably
+succeed in the future if they didn't fail for other reasons.)
+
+========================================================================
+
+Caller's Evidence:
+
+Earlier in this message I said "I am not Mr. Snuggles."
+
+========================================================================
+
+Gratuitous Arguments by ehird:
+
+Mr. Snuggles uses GMail. ais523 would never use GMail.
+Trivially FALSE.
+
+========================================================================
+
+Judge scshunt's Arguments:
+
+Perhaps one could use a self-ratifying claim of identity to merge the
+notions of Mister Snuggles and another Agoran, but this message does
+not contain a clear claim to be Mister Snuggles and, moreover,
+statements in CFJs are generally not considered outside their role as
+queries.
+
+========================================================================</pre></body></html>

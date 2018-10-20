@@ -1,0 +1,75 @@
+
+        <html><head><title>CFJ 3447</title>
+        <style>
+            body {
+              font-family: monospace;
+            }
+          table{
+              font: 1em/1.2 "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+              border-collapse: collapse;
+              width: 550px;
+          }         
+         a:link     {text-decoration: none;  color: white;}
+         a:visited  {text-decoration: none;  color: white;}
+         td:hover {background-color: #666;}
+ td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    overflow: hidden;
+    font-size: 1.2em;
+    text-align: center;
+    background-color: #444;
+    color: white;
+}
+.indx{text-align:left; vertical-align:bottom; font-size:100%;}
+.prev{text-align:right; vertical-align:bottom; font-size:85%;}
+.next{text-align:left; vertical-align:bottom; font-size:85%;}
+.text{text-align:right; vertical-align:bottom; font-size:100%;}
+
+td a{
+  display: block;
+  margin: -10cm;
+  padding: 10cm;
+}
+         </style>
+         </head>
+         <body>
+         <table><tr>
+         <td class="indx"><a href="./#3448">Index</a></td>
+         <td class="prev"><a href="./3446"><b>&larr;&nbsp;3446</b></a></td>
+         <td><a href="./3447"><b>CFJ 3447</b></a></td>
+         <td class="next"><a href="./3448"><b>3448&nbsp;&rarr;</b></a></td>
+         <td class="text"><a href="./txt/3447">text</a></td>
+         </tr></table><pre>
+=============================  CFJ 3447  =============================
+
+      aranea won the game.
+
+======================================================================
+
+Caller:                      aranea           
+
+Judge:                       scshunt            
+Judgement:                   TRUE           
+
+======================================================================
+
+History:
+
+Called by aranea:            10 May 2015
+Assigned to scshunt:         17 May 2015
+Judged TRUE by scshunt:      23 May 2015
+
+======================================================================
+
+Caller's Arguments:
+
+Adoption of proposal 7740 on Wed 15/05/06.   
+
+======================================================================
+
+Judge's Arguments:
+
+I judge TRUE.
+
+======================================================================</pre></body></html>

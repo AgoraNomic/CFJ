@@ -1,0 +1,99 @@
+
+        <html><head><title>CFJ 3326</title>
+        <style>
+            body {
+              font-family: monospace;
+            }
+          table{
+              font: 1em/1.2 "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+              border-collapse: collapse;
+              width: 550px;
+          }         
+         a:link     {text-decoration: none;  color: white;}
+         a:visited  {text-decoration: none;  color: white;}
+         td:hover {background-color: #666;}
+ td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    overflow: hidden;
+    font-size: 1.2em;
+    text-align: center;
+    background-color: #444;
+    color: white;
+}
+.indx{text-align:left; vertical-align:bottom; font-size:100%;}
+.prev{text-align:right; vertical-align:bottom; font-size:85%;}
+.next{text-align:left; vertical-align:bottom; font-size:85%;}
+.text{text-align:right; vertical-align:bottom; font-size:100%;}
+
+td a{
+  display: block;
+  margin: -10cm;
+  padding: 10cm;
+}
+         </style>
+         </head>
+         <body>
+         <table><tr>
+         <td class="indx"><a href="./#3327">Index</a></td>
+         <td class="prev"><a href="./3325"><b>&larr;&nbsp;3325</b></a></td>
+         <td><a href="./3326"><b>CFJ 3326</b></a></td>
+         <td class="next"><a href="./3327"><b>3327&nbsp;&rarr;</b></a></td>
+         <td class="text"><a href="./txt/3326">text</a></td>
+         </tr></table><pre>
+==============================  CFJ 3326  ==============================
+
+    It was excessively ambiguous
+
+========================================================================
+
+Caller:                                 scshunt
+
+Judge:                                  woggle
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by scshunt:                      20 May 2013 22:14:28 GMT
+Assigned to woggle:                     27 May 2013 22:32:17 GMT
+Judged TRUE by woggle:                  31 May 2013 22:03:24 GMT
+
+========================================================================
+
+Caller's Evidence:
+
+On May 20, 2013 5:46 PM, "omd" <c.ome.xk@gmail.com> wrote:
+>
+> On Mon, May 20, 2013 at 2:40 PM, omd <c.ome.xk@gmail.com> wrote:
+> > 7442 1   scshunt      No Recordkeeping Burden
+>
+> CORRECTION: This proposal does not exist, as scshunt withdrew it and
+> purported to resubmit it after inserting "'Enact a Rule with the
+> text:', or other words to that effect.", which I consider excessively
+> ambiguous.
+
+========================================================================
+
+Judge woggle's Arguments:
+
+A "body of text" is a part of the proposal. The purported proposal submission
+failed to unambiguously identify the body of text even though it unambiguously
+identified the intended effect of the proposal.
+
+R217 requires that we be generous when interpreting rules and "communications"
+with respect to "synonyms". However, it only deals with how we interpret the
+text; to identify the proposal, we may need to consider attributes of the text
+besides its interpretation.
+
+Per game custom, we have considered bodies of text the same in spite of minor
+formatting differences (and thus we can consider a proposal submission
+unambiguous when it's not entirely clear, e.g., how much whitespace is in the
+proposal).  But we have not extended this practice to more serious
+modifications, and we should be careful about doing so, because it would be
+open to abuse by the Promotor. (Even if the Promotor were prohibited from
+changing the "effect" or "interpretation" of proposals, E could make other
+changes that would be confusing and have a substantial effect on voting.)
+
+========================================================================</pre></body></html>

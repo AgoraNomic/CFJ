@@ -1,0 +1,93 @@
+
+        <html><head><title>CFJ 3354</title>
+        <style>
+            body {
+              font-family: monospace;
+            }
+          table{
+              font: 1em/1.2 "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+              border-collapse: collapse;
+              width: 550px;
+          }         
+         a:link     {text-decoration: none;  color: white;}
+         a:visited  {text-decoration: none;  color: white;}
+         td:hover {background-color: #666;}
+ td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    overflow: hidden;
+    font-size: 1.2em;
+    text-align: center;
+    background-color: #444;
+    color: white;
+}
+.indx{text-align:left; vertical-align:bottom; font-size:100%;}
+.prev{text-align:right; vertical-align:bottom; font-size:85%;}
+.next{text-align:left; vertical-align:bottom; font-size:85%;}
+.text{text-align:right; vertical-align:bottom; font-size:100%;}
+
+td a{
+  display: block;
+  margin: -10cm;
+  padding: 10cm;
+}
+         </style>
+         </head>
+         <body>
+         <table><tr>
+         <td class="indx"><a href="./#3355">Index</a></td>
+         <td class="prev"><a href="./3353"><b>&larr;&nbsp;3353</b></a></td>
+         <td><a href="./3354"><b>CFJ 3354</b></a></td>
+         <td class="next"><a href="./3355"><b>3355&nbsp;&rarr;</b></a></td>
+         <td class="text"><a href="./txt/3354">text</a></td>
+         </tr></table><pre>
+==============================  CFJ 3354  ==============================
+
+    Ambassador Abuse is a nomic.
+
+========================================================================
+
+Caller:                                 woggle
+
+Judge:                                  omd
+Judgement:                              UNDETERMINED
+
+========================================================================
+
+History:
+
+Called by woggle:                       28 Jun 2013 15:30:04 GMT
+Assigned to omd:                        03 Jul 2013 19:29:54 GMT
+Judged UNDETERMINED by omd:             04 Jul 2013 02:48:10 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+This is FALSE is ais523's amendments were successful. Although Ambassador
+Abuse rule 1 would then purport to be a nomic, Ambassador Abuse would fail to
+provide a means to amend itself arbitrarily.
+
+Since Ambassador Abuse only accepts communications through Agoran fora (and
+references no third nomic), it is most sensible to interpret identities
+specified in Ambassador Abuse's rules as Agoran identities rather than
+identities of any non-Ambassador Abuse, non-Agoran nomic.
+
+========================================================================
+
+Judge omd's Arguments:
+
+UNDETERMINED.  Systems of rules only exist in the presence of people
+to follow them.  Like any nomic which does not agree to be binding
+under the rules of Agora, it is up to Ambassador Abuse's players to
+decide how they wish to interpret its rules; the alternative of
+unilaterally applying Agoran logic to every nomic, a term which Rule
+2368 explicitly envisions including, among other things, sovereign
+states, would be disastrous.  If the players cannot agree on whether
+it is amendable, then it is indeterminate whether or not it is a
+nomic.
+
+(However, I'll note that the initial ruleset has a perhaps
+unresolvable conflict between rules 3 and 7.)
+
+========================================================================</pre></body></html>

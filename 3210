@@ -1,0 +1,89 @@
+
+        <html><head><title>CFJ 3210</title>
+        <style>
+            body {
+              font-family: monospace;
+            }
+          table{
+              font: 1em/1.2 "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+              border-collapse: collapse;
+              width: 550px;
+          }         
+         a:link     {text-decoration: none;  color: white;}
+         a:visited  {text-decoration: none;  color: white;}
+         td:hover {background-color: #666;}
+ td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    overflow: hidden;
+    font-size: 1.2em;
+    text-align: center;
+    background-color: #444;
+    color: white;
+}
+.indx{text-align:left; vertical-align:bottom; font-size:100%;}
+.prev{text-align:right; vertical-align:bottom; font-size:85%;}
+.next{text-align:left; vertical-align:bottom; font-size:85%;}
+.text{text-align:right; vertical-align:bottom; font-size:100%;}
+
+td a{
+  display: block;
+  margin: -10cm;
+  padding: 10cm;
+}
+         </style>
+         </head>
+         <body>
+         <table><tr>
+         <td class="indx"><a href="./#3211">Index</a></td>
+         <td class="prev"><a href="./3209"><b>&larr;&nbsp;3209</b></a></td>
+         <td><a href="./3210"><b>CFJ 3210</b></a></td>
+         <td class="next"><a href="./3211"><b>3211&nbsp;&rarr;</b></a></td>
+         <td class="text"><a href="./txt/3210">text</a></td>
+         </tr></table><pre>
+==============================  CFJ 3210  ==============================
+
+    omd,  satisfied the winning condition of Anarchy in connection with
+    that event
+
+========================================================================
+
+Caller:                                 Bucky
+Barred:                                 scshunt
+
+Judge:                                  G.
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Bucky:                        13 May 2012 17:38:29 GMT
+Assigned to G.:                         26 May 2012 01:56:50 GMT
+Judged FALSE by G.:                     06 Jun 2012 16:32:33 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+omd was the author of the proposal that introduced the alleged loophole Sean
+Hunt allegedly used.  As such, e indirectly caused the President to not be a
+player (as did the other players who voted on it).
+
+========================================================================
+
+Caller's Evidence:
+
+The following is a Victory Announcement: The President satisfied the Winning
+Condition of Anarchy when eir most recent promise was cashed.
+
+========================================================================
+
+Judge G.'s Arguments:
+
+A proposal, voted on by many and going through a formal adoption
+procedure, cannot be said to be reasonable causal act for a (far later)
+win; as per CFJs 1890 and 3209, it falls far away from a final cause (a
+single act of will turned into an action leading to a result).  FALSE.
+
+========================================================================</pre></body></html>

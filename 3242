@@ -1,0 +1,86 @@
+
+        <html><head><title>CFJ 3242</title>
+        <style>
+            body {
+              font-family: monospace;
+            }
+          table{
+              font: 1em/1.2 "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+              border-collapse: collapse;
+              width: 550px;
+          }         
+         a:link     {text-decoration: none;  color: white;}
+         a:visited  {text-decoration: none;  color: white;}
+         td:hover {background-color: #666;}
+ td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    overflow: hidden;
+    font-size: 1.2em;
+    text-align: center;
+    background-color: #444;
+    color: white;
+}
+.indx{text-align:left; vertical-align:bottom; font-size:100%;}
+.prev{text-align:right; vertical-align:bottom; font-size:85%;}
+.next{text-align:left; vertical-align:bottom; font-size:85%;}
+.text{text-align:right; vertical-align:bottom; font-size:100%;}
+
+td a{
+  display: block;
+  margin: -10cm;
+  padding: 10cm;
+}
+         </style>
+         </head>
+         <body>
+         <table><tr>
+         <td class="indx"><a href="./#3243">Index</a></td>
+         <td class="prev"><a href="./3241"><b>&larr;&nbsp;3241</b></a></td>
+         <td><a href="./3242"><b>CFJ 3242</b></a></td>
+         <td class="next"><a href="./3243"><b>3243&nbsp;&rarr;</b></a></td>
+         <td class="text"><a href="./txt/3242">text</a></td>
+         </tr></table><pre>
+==============================  CFJ 3242  ==============================
+
+    🎩❓
+
+========================================================================
+
+Caller:                                 omd
+
+Judge:                                  ais523
+Judgement:                              MALFORMED
+
+========================================================================
+
+History:
+
+Called by omd:                          05 Jul 2012 03:11:39 GMT
+Assigned to ais523:                     06 Jul 2012 13:43:52 GMT
+Judged MALFORMED by ais523:             09 Jul 2012 23:32:26 GMT
+
+========================================================================
+
+Caller's Evidence:
+
+On Wed, Jul 4, 2012 at 7:51 PM, Tanner Swett <swettt@mail.gvsu.edu> wrote:
+> Diamonds. I ♦ Agora forever.
+>
+> —Machiavelli
+
+========================================================================
+
+Judge ais523's Arguments:
+
+Regardless of whether the message has the right form to initiate a CFJ
+or not (I think it might do, the effort required to decode it is not too
+extreme), it doesn't contain a statement (the characters that appear
+after the colon cannot reasonably be parsed as a statement).
+
+As such, I judge CFJ 3243 FALSE. CFJ 3242 doesn't exist, but just in
+case, I attempt to judge it MALFORMED (and note that it's impossible to
+actually correctly judge a CFJ MALFORMED, as all CFJs for which it's
+appropriate don't exist).
+
+========================================================================</pre></body></html>

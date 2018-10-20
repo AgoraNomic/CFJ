@@ -1,0 +1,101 @@
+
+        <html><head><title>CFJ 3284</title>
+        <style>
+            body {
+              font-family: monospace;
+            }
+          table{
+              font: 1em/1.2 "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+              border-collapse: collapse;
+              width: 550px;
+          }         
+         a:link     {text-decoration: none;  color: white;}
+         a:visited  {text-decoration: none;  color: white;}
+         td:hover {background-color: #666;}
+ td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    overflow: hidden;
+    font-size: 1.2em;
+    text-align: center;
+    background-color: #444;
+    color: white;
+}
+.indx{text-align:left; vertical-align:bottom; font-size:100%;}
+.prev{text-align:right; vertical-align:bottom; font-size:85%;}
+.next{text-align:left; vertical-align:bottom; font-size:85%;}
+.text{text-align:right; vertical-align:bottom; font-size:100%;}
+
+td a{
+  display: block;
+  margin: -10cm;
+  padding: 10cm;
+}
+         </style>
+         </head>
+         <body>
+         <table><tr>
+         <td class="indx"><a href="./#3285">Index</a></td>
+         <td class="prev"><a href="./3283"><b>&larr;&nbsp;3283</b></a></td>
+         <td><a href="./3284"><b>CFJ 3284</b></a></td>
+         <td class="next"><a href="./3285"><b>3285&nbsp;&rarr;</b></a></td>
+         <td class="text"><a href="./txt/3284">text</a></td>
+         </tr></table><pre>
+==============================  CFJ 3284  ==============================
+
+    Yally is active.
+
+========================================================================
+
+Caller:                                 Murphy
+
+Judge:                                  G.
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       30 Oct 2012 06:32:02 GMT
+Assigned to G.:                         11 Nov 2012 19:10:06 GMT
+Judged FALSE by G.:                     14 Nov 2012 23:50:22 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+The message cited in evidence could be interpreted as either "If I'm an
+active player, I cease to be active" or "If I'm an active player, I
+cease to be a player".  I interpreted the former interpretation as
+sufficiently likely to be unambiguous; though at least three others
+(Pavitra, FKA441344, Yally emself) appear to have interpreted it as
+ambiguous enough to be ineffective, and this in itself likely makes
+them right.
+
+Note that, while the Registrar's report's claim that Yally is a player
+is self-ratifying (Rule 2139), its claim that e is active is not.
+
+========================================================================
+
+Caller's Evidence:
+
+http://www.agoranomic.org/cgi-bin/mailman/private/agora-business/2012-August/0
+30111.html
+
+
+========================================================================
+
+Judge G.'s Arguments:
+
+The phrase used was:
+        "If I am an active player, I cause myself to cease to be one."
+which, as the caller describes, could be accomplished either by the
+actor ceasing to be a player, or ceasing to be active.
+
+However, the most natural reading is to apply the change to "active",
+as there would be no reason to mention activity if one were merely
+changing playerhood status.  This is sufficiently natural in terms of
+language that I go with the Caller's original assumption, that this
+successfully made Yally an inactive player.  FALSE.
+
+========================================================================</pre></body></html>

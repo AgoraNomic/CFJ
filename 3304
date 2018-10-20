@@ -1,0 +1,100 @@
+
+        <html><head><title>CFJ 3304</title>
+        <style>
+            body {
+              font-family: monospace;
+            }
+          table{
+              font: 1em/1.2 "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+              border-collapse: collapse;
+              width: 550px;
+          }         
+         a:link     {text-decoration: none;  color: white;}
+         a:visited  {text-decoration: none;  color: white;}
+         td:hover {background-color: #666;}
+ td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    overflow: hidden;
+    font-size: 1.2em;
+    text-align: center;
+    background-color: #444;
+    color: white;
+}
+.indx{text-align:left; vertical-align:bottom; font-size:100%;}
+.prev{text-align:right; vertical-align:bottom; font-size:85%;}
+.next{text-align:left; vertical-align:bottom; font-size:85%;}
+.text{text-align:right; vertical-align:bottom; font-size:100%;}
+
+td a{
+  display: block;
+  margin: -10cm;
+  padding: 10cm;
+}
+         </style>
+         </head>
+         <body>
+         <table><tr>
+         <td class="indx"><a href="./#3305">Index</a></td>
+         <td class="prev"><a href="./3303"><b>&larr;&nbsp;3303</b></a></td>
+         <td><a href="./3304"><b>CFJ 3304</b></a></td>
+         <td class="next"><a href="./3305"><b>3305&nbsp;&rarr;</b></a></td>
+         <td class="text"><a href="./txt/3304">text</a></td>
+         </tr></table><pre>
+==============================  CFJ 3304  ==============================
+
+    The office of Registrar is Postulated.
+
+========================================================================
+
+Caller:                                 scshunt
+
+Judge:                                  Machiavelli
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by scshunt:                      12 Apr 2013 21:41:41 GMT
+Assigned to Machiavelli:                14 Apr 2013 07:57:38 GMT
+Judged TRUE by Machiavelli:             15 Apr 2013 19:06:36 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Per Rule 2276, "An active first-class player can make emself the holder of an
+elected office by announcement, provided that the office is either vacant or
+Assumed. Upon doing so, the office's Assumption is flipped to Assumed."
+
+If the first CFJ is TRUE, then the office was still Postulated when I assumed
+it. It was not until after I assumed it that it became Assumed. Then " If a
+player has held an Assumed office continuously since the last time it was
+Postulated, e can flip its Assumption to Postulated by announcement."
+
+========================================================================
+
+Caller's Evidence:
+
+I assume Registrar. I flip Registrar to Postulated.
+
+========================================================================
+
+Judge Machiavelli's Arguments:
+
+Given the result of CFJ 3303, I think CFJ 3304 seems straightforward. First,
+Registrar was vacant and Postulated. Next, scshunt made emself the holder of
+Registrar by announcement. Then, Rule 2276 flipped Registrar to Assumed. Thus,
+scshunt was the holder of Registrar when it was Postulated (albeit only for a
+single instant), and so he had "held an Assumed office continuously since the
+last time it was Postulated", allowing em to flip the office to Postulated. I
+judge TRUE.
+
+I don't actually like the TRUE/TRUE verdict here, because I don't think it
+makes sense to allow arbitrary active first-class players to assume an office
+and then make it Postulated (and I don't think it makes sense to distinguish
+between Assumed and Postulated vacant offices), but I feel like a FALSE/FALSE
+verdict would be worse, and I don't see any grounds for a TRUE/FALSE verdict.
+
+========================================================================</pre></body></html>

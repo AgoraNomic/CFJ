@@ -1,0 +1,114 @@
+
+        <html><head><title>CFJ 3511</title>
+        <style>
+            body {
+              font-family: monospace;
+            }
+          table{
+              font: 1em/1.2 "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+              border-collapse: collapse;
+              width: 550px;
+          }         
+         a:link     {text-decoration: none;  color: white;}
+         a:visited  {text-decoration: none;  color: white;}
+         td:hover {background-color: #666;}
+ td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    overflow: hidden;
+    font-size: 1.2em;
+    text-align: center;
+    background-color: #444;
+    color: white;
+}
+.indx{text-align:left; vertical-align:bottom; font-size:100%;}
+.prev{text-align:right; vertical-align:bottom; font-size:85%;}
+.next{text-align:left; vertical-align:bottom; font-size:85%;}
+.text{text-align:right; vertical-align:bottom; font-size:100%;}
+
+td a{
+  display: block;
+  margin: -10cm;
+  padding: 10cm;
+}
+         </style>
+         </head>
+         <body>
+         <table><tr>
+         <td class="indx"><a href="./#3512">Index</a></td>
+         <td class="prev"><a href="./3510"><b>&larr;&nbsp;3510</b></a></td>
+         <td><a href="./3511"><b>CFJ 3511</b></a></td>
+         <td class="next"><a href="./3512"><b>3512&nbsp;&rarr;</b></a></td>
+         <td class="text"><a href="./txt/3511">text</a></td>
+         </tr></table><pre>
+==============================  CFJ 3511  ==============================
+
+      Posting a message on a public forum is itself an action, for the
+      purposes of rule 2467.
+
+========================================================================
+
+Caller:                       o
+
+Judge:                        Gaelan
+Judgement:                    TRUE
+
+========================================================================
+
+History:
+
+Called by o:                  24 May 2017
+Assigned to Gaelan:           24 May 2017
+Judged TRUE by Gaelan:        24 May 2017
+
+========================================================================
+
+Caller's Evidence:
+
+Rule 2467/1 (Agencies)
+
+An Agency is a document empowering persons to act on behalf of
+another player. A player may establish an Agency With 24 hours
+Notice and thereby become its Director by specifying the properties
+of the new Agency:
+
+1. A title, which must be exactly three words, not counting
+conjunctions, articles or prepositions.
+2. A non-empty list of persons other than the Head (the Agents).
+3. A description of a set of actions (the Powers).
+
+An Agency's Head may amend its properties or revoke it with 24
+hours Notice. For greater certainty, an announced intent to create
+an Agency or amend an Agency's powers is INEFFECTIVE unless it
+explicitly specifies the new values of the properties being created
+or amended.
+
+The Powers of an Agency must be stated as actions, although they
+may may be conditional on date, time, game state, or other
+preconditions. If condition(s) are specified as necessary for a
+power to be used, it is limited; otherwise, it is unlimited. If it
+attempts to specify a power in a manner that is unclear, ambiguous,
+circular, inconsistent, paradoxical, or that depends on information
+that is impossible or unreasonably difficult to determine, then the
+specification of that power is invalid, and it CANNOT be used.
+
+An Agency, once created, SHOULD be referred to by the acronym
+formed from its title with conjunctions, articles, and prepositions
+removed. The acronym of an agency must be unique and any attempt to
+create or amend an Agency such that two Agencies would have the
+same acronym is INEFFECTIVE.
+
+The Agents of an Agency may perform the Actions described in the
+Powers of the Agency on behalf of the Agency's Head.
+
+========================================================================
+
+Judge's Arguments:
+
+I judge as TRUE. Nowhere in 2467 (or anywhere else in the ruleset) is 
+"action" defined, so we fall back to the common English definition;
+posting to the public forum is plainly an action by the common
+definition.
+
+========================================================================
+</pre></body></html>

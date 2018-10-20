@@ -1,0 +1,105 @@
+
+        <html><head><title>CFJ 3410</title>
+        <style>
+            body {
+              font-family: monospace;
+            }
+          table{
+              font: 1em/1.2 "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+              border-collapse: collapse;
+              width: 550px;
+          }         
+         a:link     {text-decoration: none;  color: white;}
+         a:visited  {text-decoration: none;  color: white;}
+         td:hover {background-color: #666;}
+ td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    overflow: hidden;
+    font-size: 1.2em;
+    text-align: center;
+    background-color: #444;
+    color: white;
+}
+.indx{text-align:left; vertical-align:bottom; font-size:100%;}
+.prev{text-align:right; vertical-align:bottom; font-size:85%;}
+.next{text-align:left; vertical-align:bottom; font-size:85%;}
+.text{text-align:right; vertical-align:bottom; font-size:100%;}
+
+td a{
+  display: block;
+  margin: -10cm;
+  padding: 10cm;
+}
+         </style>
+         </head>
+         <body>
+         <table><tr>
+         <td class="indx"><a href="./#3411">Index</a></td>
+         <td class="prev"><a href="./3409"><b>&larr;&nbsp;3409</b></a></td>
+         <td><a href="./3410"><b>CFJ 3410</b></a></td>
+         <td class="next"><a href="./3411"><b>3411&nbsp;&rarr;</b></a></td>
+         <td class="text"><a href="./txt/3410">text</a></td>
+         </tr></table><pre>
+==============================  CFJ 3410  ==============================
+
+    The most recent document published by the Registrar purporting to be
+    eir report does not contain all information required by the rules to
+    be included in a Registrar's report.
+
+========================================================================
+
+Caller:     scshunt
+
+========================================================================
+
+Called by scshunt:                                  09 May 2014 15:20:49
+Assigned to ais523:                                 09 May 2014 15:32:12
+Judged TRUE by ais523:                              22 Jun 2014 01:39:04
+
+========================================================================
+
+<CAMQXVwU5CuSA0ZryKEGYKpeDTsG2FrGZwEwv+oy7wUctH3BTbQ@mail.gmail.com>
+Exhibit by scshunt:
+
+Evidence:
+>From the report in question:
+>
+> Year of Deregistration                                Reg.        Dereg.
+> 1994 to 2012: http://zenith.homelinux.net/agora_deregistrations.txt
+>From R478:
+      A public message is a message sent via a public forum, or sent
+      to all players and containing a clear designation of intent to
+      be public.  A rule can also designate that a part of one public
+      message is considered a public message in its own right. A
+      person "publishes" or "announces" something by sending a public
+      message.
+>From R2143:
+      a) If any task is defined by the rules as part of that person's
+         weekly duties, then e SHALL perform it at least once each
+         week.  If any information is defined by the rules as part of
+         that person's weekly report, then e SHALL maintain all such
+         information, and the publication of all such information is
+         part of eir weekly duties.
+>From R2139:
+      The Registrar's report includes:
+      ...
+      c) For each former player for which the information is
+         reasonably available, the dates on which e registered and
+         deregistered.
+Arguments:
+The report does not include a published copy of this information, but
+a hyperlink. I think that the requirement of publication means that
+the information must be sent via the fora, and that a link (while
+recommended by R2143) is insufficient to constitute publication and
+fulfill the requirements of a report.
+
+========================================================================
+
+<1403415541.5305.5.camel@tundra>
+Exhibit by ais523:
+
+Seems to be a reasonably uncontroversial breach of 2139c). TRUE.
+
+========================================================================
+</pre></body></html>

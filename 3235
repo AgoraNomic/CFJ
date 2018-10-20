@@ -1,0 +1,123 @@
+
+        <html><head><title>CFJ 3235</title>
+        <style>
+            body {
+              font-family: monospace;
+            }
+          table{
+              font: 1em/1.2 "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+              border-collapse: collapse;
+              width: 550px;
+          }         
+         a:link     {text-decoration: none;  color: white;}
+         a:visited  {text-decoration: none;  color: white;}
+         td:hover {background-color: #666;}
+ td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    overflow: hidden;
+    font-size: 1.2em;
+    text-align: center;
+    background-color: #444;
+    color: white;
+}
+.indx{text-align:left; vertical-align:bottom; font-size:100%;}
+.prev{text-align:right; vertical-align:bottom; font-size:85%;}
+.next{text-align:left; vertical-align:bottom; font-size:85%;}
+.text{text-align:right; vertical-align:bottom; font-size:100%;}
+
+td a{
+  display: block;
+  margin: -10cm;
+  padding: 10cm;
+}
+         </style>
+         </head>
+         <body>
+         <table><tr>
+         <td class="indx"><a href="./#3237">Index</a></td>
+         <td class="prev"><a href="./3234"><b>&larr;&nbsp;3234</b></a></td>
+         <td><a href="./3235"><b>CFJ 3235</b></a></td>
+         <td class="next"><a href="./3237"><b>3237&nbsp;&rarr;</b></a></td>
+         <td class="text"><a href="./txt/3235">text</a></td>
+         </tr></table><pre>
+==============================  CFJ 3235  ==============================
+
+    In the above quoted Census, FKA441344 created a Slave Golem.
+
+========================================================================
+
+Caller:                                 Yally
+
+Judge:                                  scshunt
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Yally:                        25 Jun 2012 00:09:39 GMT
+Assigned to scshunt:                    28 Jun 2012 14:35:26 GMT
+Judged FALSE by scshunt:                28 Jun 2012 15:52:46 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+The above quote, without context, would almost surely have
+resulted in FKA441344 creative a Slave Golem. However, the above
+message offers very little context, with only a single star
+referencing a player, and no need to produce the entire string (the
+preexisting Slave Golem could be unambiguously referred to as "I
+create.")
+
+========================================================================
+
+Caller's Evidence:
+
+The Registrar's Census published on June 18, 2012
+
+On Mon, Jun 18, 2012 at 5:38 PM, FKA441344 <441344@gmail.com> wrote:
+>
+>
+>
+> * : {I create a Slave Golem whose name is the full body of this message.
+>
+>     (Preemptive arguments: It's not confusing, merely long.)
+>
+>     On Fri, Jun 8, 2012 at 7:16 PM, Pavitra <celestialcognition@gmail.com>
+>     wrote:
+>     > On 06/08/2012 07:03 PM, John Smith wrote:
+>     >> For good measure, I transfer Scapegoat to Pavitra.
+>     >
+>     > I transfer Scapegoat to the number four hundred forty-one thousand
+>       three
+>     > hundred forty-four.
+>    }
+
+========================================================================
+
+Gratuitous Arguments by OscarMeyr:
+
+Gratuitous argument for FALSE:  Game custom holds that in general,
+Officer's Reports do not take actions as a result of the publication
+of the reports.  In this case, the indicated section of the Census
+report was a Golem's name, not an action creating a Golem.  (I
+acknowledge that in nearly 19 years of Agora, some people probably
+have attempted scams by including actions in reports, but I don't
+think the actions were ever masquerading as reported information.)
+
+========================================================================
+
+Judge scshunt's Arguments:
+
+FALSE. I do not entirely agree with the submission by OscarMeyr, and I
+cite in particular a Notary report of ais523 (which I do not have on
+hand, sorry) with several intents buried in the middle of the report.
+However, in that case, they were not presented as a footnote to the
+report, merely as an interruption of the report's content. A report
+is, by its nature, a set of statements about the gamestate. A footnote
+is an explanatory text, and should be interpreted in that context and
+that context alone.
+
+========================================================================</pre></body></html>

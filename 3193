@@ -1,0 +1,87 @@
+
+        <html><head><title>CFJ 3193</title>
+        <style>
+            body {
+              font-family: monospace;
+            }
+          table{
+              font: 1em/1.2 "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+              border-collapse: collapse;
+              width: 550px;
+          }         
+         a:link     {text-decoration: none;  color: white;}
+         a:visited  {text-decoration: none;  color: white;}
+         td:hover {background-color: #666;}
+ td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    overflow: hidden;
+    font-size: 1.2em;
+    text-align: center;
+    background-color: #444;
+    color: white;
+}
+.indx{text-align:left; vertical-align:bottom; font-size:100%;}
+.prev{text-align:right; vertical-align:bottom; font-size:85%;}
+.next{text-align:left; vertical-align:bottom; font-size:85%;}
+.text{text-align:right; vertical-align:bottom; font-size:100%;}
+
+td a{
+  display: block;
+  margin: -10cm;
+  padding: 10cm;
+}
+         </style>
+         </head>
+         <body>
+         <table><tr>
+         <td class="indx"><a href="./#3194">Index</a></td>
+         <td class="prev"><a href="./3192"><b>&larr;&nbsp;3192</b></a></td>
+         <td><a href="./3193"><b>CFJ 3193</b></a></td>
+         <td class="next"><a href="./3194"><b>3194&nbsp;&rarr;</b></a></td>
+         <td class="text"><a href="./txt/3193">text</a></td>
+         </tr></table><pre>
+==============================  CFJ 3193  ==============================
+
+    kcnomic is mister snuggles.
+
+========================================================================
+
+Caller:                                 ehird
+
+Judge:                                  ais523
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by ehird:                        25 Mar 2012 21:17:06 GMT
+Assigned to ais523:                     29 Mar 2012 06:40:18 GMT
+Judged FALSE by ais523:                 02 Apr 2012 21:03:01 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+I'm trying to destroy Agora by systematically clogging the
+courts with nonsense CFJs.
+
+========================================================================
+
+Caller's Evidence:
+
+[CotC:  the message in which e initiated this case]
+
+This message.
+
+========================================================================
+
+Judge ais523's Arguments:
+
+The precedent of recent Mr. Snuggles-related CFJs is that we can assume,
+when trying to establish eir identity, that the statements that e has
+publicly made about eir identity are all true. Thus, e can't possibly be
+kcnomic. I judge CFJ 3193 FALSE, and rage at the caller a bit.
+
+========================================================================</pre></body></html>

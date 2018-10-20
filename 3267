@@ -1,0 +1,85 @@
+
+        <html><head><title>CFJ 3267</title>
+        <style>
+            body {
+              font-family: monospace;
+            }
+          table{
+              font: 1em/1.2 "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+              border-collapse: collapse;
+              width: 550px;
+          }         
+         a:link     {text-decoration: none;  color: white;}
+         a:visited  {text-decoration: none;  color: white;}
+         td:hover {background-color: #666;}
+ td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    overflow: hidden;
+    font-size: 1.2em;
+    text-align: center;
+    background-color: #444;
+    color: white;
+}
+.indx{text-align:left; vertical-align:bottom; font-size:100%;}
+.prev{text-align:right; vertical-align:bottom; font-size:85%;}
+.next{text-align:left; vertical-align:bottom; font-size:85%;}
+.text{text-align:right; vertical-align:bottom; font-size:100%;}
+
+td a{
+  display: block;
+  margin: -10cm;
+  padding: 10cm;
+}
+         </style>
+         </head>
+         <body>
+         <table><tr>
+         <td class="indx"><a href="./#3268">Index</a></td>
+         <td class="prev"><a href="./3264"><b>&larr;&nbsp;3264</b></a></td>
+         <td><a href="./3267"><b>CFJ 3267</b></a></td>
+         <td class="next"><a href="./3268"><b>3268&nbsp;&rarr;</b></a></td>
+         <td class="text"><a href="./txt/3267">text</a></td>
+         </tr></table><pre>
+=========================  Criminal Case 3267  =========================
+
+    FKA443144 violated Rule 2143 by publishing an IADoP's report
+    indicating that the office of ATC was empty when it was held by
+    FKA443144.
+
+========================================================================
+
+Caller:                                 scshunt
+Barred:                                 FKA441344
+
+Judge:                                  Murphy
+Judgement:                              GUILTY/APOLOGY
+
+========================================================================
+
+History:
+
+Called by scshunt:                      03 Sep 2012 17:56:27 GMT
+Defendant FKA441344 informed:           03 Sep 2012 17:56:27 GMT
+Assigned to Murphy:                     17 Sep 2012 14:16:28 GMT
+Judged GUILTY/APOLOGY by Murphy:        27 Sep 2012 01:18:48 GMT
+
+========================================================================
+
+Caller's Evidence:
+
+E assumed the office several minutes prior to the report.
+
+========================================================================
+
+Gratuitous Arguments by FKA441344:
+
+oops, sorry.
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+GUILTY, APOLOGY (schedule, prospect, appeal, boat, stumble)
+
+========================================================================</pre></body></html>

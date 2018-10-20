@@ -1,0 +1,70 @@
+
+        <html><head><title>CFJ 3382</title>
+        <style>
+            body {
+              font-family: monospace;
+            }
+          table{
+              font: 1em/1.2 "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+              border-collapse: collapse;
+              width: 550px;
+          }         
+         a:link     {text-decoration: none;  color: white;}
+         a:visited  {text-decoration: none;  color: white;}
+         td:hover {background-color: #666;}
+ td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    overflow: hidden;
+    font-size: 1.2em;
+    text-align: center;
+    background-color: #444;
+    color: white;
+}
+.indx{text-align:left; vertical-align:bottom; font-size:100%;}
+.prev{text-align:right; vertical-align:bottom; font-size:85%;}
+.next{text-align:left; vertical-align:bottom; font-size:85%;}
+.text{text-align:right; vertical-align:bottom; font-size:100%;}
+
+td a{
+  display: block;
+  margin: -10cm;
+  padding: 10cm;
+}
+         </style>
+         </head>
+         <body>
+         <table><tr>
+         <td class="indx"><a href="./#3383a">Index</a></td>
+         <td class="prev"><a href="./3381"><b>&larr;&nbsp;3381</b></a></td>
+         <td><a href="./3382"><b>CFJ 3382</b></a></td>
+         <td class="next"><a href="./3383a"><b>3383a&nbsp;&rarr;</b></a></td>
+         <td class="text"><a href="./txt/3382">text</a></td>
+         </tr></table><pre>
+==============================  CFJ 3382  ==============================
+
+    I am a player.
+
+========================================================================
+
+Caller:                                 Walker
+
+Judge:                                  omd
+Judgement:                              IRRELEVANT
+
+========================================================================
+
+History:
+
+Called by Walker:                       31 Jul 2013 15:05:58 GMT
+Assigned to omd:                        05 Aug 2013 13:09:43 GMT
+Judged IRRELEVANT by omd:               05 Aug 2013 19:12:25 GMT
+
+========================================================================
+
+Judge omd's Arguments:
+
+IRRELEVANT as trivially determinable from the outcome of another
+judicial case (the one about my playerhood).
+
+========================================================================</pre></body></html>

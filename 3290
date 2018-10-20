@@ -1,0 +1,142 @@
+
+        <html><head><title>CFJ 3290</title>
+        <style>
+            body {
+              font-family: monospace;
+            }
+          table{
+              font: 1em/1.2 "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+              border-collapse: collapse;
+              width: 550px;
+          }         
+         a:link     {text-decoration: none;  color: white;}
+         a:visited  {text-decoration: none;  color: white;}
+         td:hover {background-color: #666;}
+ td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    overflow: hidden;
+    font-size: 1.2em;
+    text-align: center;
+    background-color: #444;
+    color: white;
+}
+.indx{text-align:left; vertical-align:bottom; font-size:100%;}
+.prev{text-align:right; vertical-align:bottom; font-size:85%;}
+.next{text-align:left; vertical-align:bottom; font-size:85%;}
+.text{text-align:right; vertical-align:bottom; font-size:100%;}
+
+td a{
+  display: block;
+  margin: -10cm;
+  padding: 10cm;
+}
+         </style>
+         </head>
+         <body>
+         <table><tr>
+         <td class="indx"><a href="./#3291">Index</a></td>
+         <td class="prev"><a href="./3289"><b>&larr;&nbsp;3289</b></a></td>
+         <td><a href="./3290"><b>CFJ 3290</b></a></td>
+         <td class="next"><a href="./3291"><b>3291&nbsp;&rarr;</b></a></td>
+         <td class="text"><a href="./txt/3290">text</a></td>
+         </tr></table><pre>
+==============================  CFJ 3290  ==============================
+
+    there exists a Slave Golem that is a unit.
+
+========================================================================
+
+Caller:                                 Machiavelli
+
+Judge:                                  Murphy
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Machiavelli:                  16 Jan 2013 22:16:09 GMT
+Assigned to Murphy:                     22 Jan 2013 16:07:25 GMT
+Judged FALSE by Murphy:                 22 Jan 2013 16:44:15 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+it is reasonably clear that the word "marine" in the rule
+"Belligerence" is not intended to mean the same thing as the word
+"marine" in Rule 2376. It is, in fact, perfectly reasonable for a
+single word to have two different meanings; the word "may", for
+example, sometimes means CAN and sometimes means MAY (and sometimes
+means the month of May, but apparently not anywhere in the rules
+themselves). In addition, the rule "Belligerence" states that the
+recordkeepor of marines that are units is the Mongor, whereas other
+rules state that the recordkeepor of Marines that are golems is the
+Golemkeepor. A single asset cannot have multiple recordkeepors, so
+presumably, no entity can be both a unit and a golem.
+
+========================================================================
+
+Caller's Evidence:
+
+I create a Slave Golem in my possession whose name is Ted.
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+Intent aside, Rule 2376 and the rule "Belligerence" both attempt to
+explicitly define "marines", bringing "Belligerence" into conflict
+with 2376 and other rules.  (Capitalization is insufficient to
+distinguish them; the capitalization of MMI terms only matters
+because Rule 2152 explicitly says so.)
+
+"Belligerence" clearly loses to 2360 on Power.  In the interest of
+avoiding ambiguity and preserving game custom and intent, I interpret
+"lower" in Rule 1030 as a reasonably obvious gloss for "lowest", so it
+loses to 2376 as well.
+
+"Belligerence" fails to effectively define "marines".  FALSE.
+
+========================================================================
+
+Judge Murphy's Evidence:
+
+Rule 1586/8 (Power=2), excerpt
+Definition and Continuity of Entities
+
+      If multiple rules attempt to define an entity with the same
+      name, then they refer to the same entity.
+
+Rule 2166/17 (Power=2), excerpts
+Assets
+
+      An asset is an entity defined as such by a rule or contest
+      (hereafter its backing document), and existing solely because
+      its backing document defines its existence.
+
+      The recordkeepor of a class of assets is the entity (if any)
+      defined as such by, and bound by, its backing document.
+
+Rule 2360/1 (Power=2), excerpt
+Golems
+
+      Golems are a class of second-class persons and a class of
+      assets. Golemkeepor is an elected Office. The Golemkeepor is the
+      recordkeepor for Golems.
+
+Rule 2376/1 (Power=1), excerpt
+Props
+
+      Entities with less than 9 props are Marines.
+
+Rule "Belligerence" (Power=1), excerpts
+
+      The Mongor is an office.
+
+      A unit is a type of asset whose recordkeepor is the Mongor.
+
+      Marines are a type of unit.
+
+========================================================================</pre></body></html>

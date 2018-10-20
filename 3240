@@ -1,0 +1,92 @@
+
+        <html><head><title>CFJ 3240</title>
+        <style>
+            body {
+              font-family: monospace;
+            }
+          table{
+              font: 1em/1.2 "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+              border-collapse: collapse;
+              width: 550px;
+          }         
+         a:link     {text-decoration: none;  color: white;}
+         a:visited  {text-decoration: none;  color: white;}
+         td:hover {background-color: #666;}
+ td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    overflow: hidden;
+    font-size: 1.2em;
+    text-align: center;
+    background-color: #444;
+    color: white;
+}
+.indx{text-align:left; vertical-align:bottom; font-size:100%;}
+.prev{text-align:right; vertical-align:bottom; font-size:85%;}
+.next{text-align:left; vertical-align:bottom; font-size:85%;}
+.text{text-align:right; vertical-align:bottom; font-size:100%;}
+
+td a{
+  display: block;
+  margin: -10cm;
+  padding: 10cm;
+}
+         </style>
+         </head>
+         <body>
+         <table><tr>
+         <td class="indx"><a href="./#3241">Index</a></td>
+         <td class="prev"><a href="./3239"><b>&larr;&nbsp;3239</b></a></td>
+         <td><a href="./3240"><b>CFJ 3240</b></a></td>
+         <td class="next"><a href="./3241"><b>3241&nbsp;&rarr;</b></a></td>
+         <td class="text"><a href="./txt/3240">text</a></td>
+         </tr></table><pre>
+==============================  CFJ 3240  ==============================
+
+    The statement "Ozymandias has won the game." and this one have the
+    same truth value.
+
+========================================================================
+
+Caller:                                 Ozymandias
+
+Judge:                                  Murphy
+Judgement:                              UNDECIDABLE
+
+========================================================================
+
+History:
+
+Called by Ozymandias:                   28 Jun 2012 15:50:10 GMT
+Assigned to Murphy:                     03 Jul 2012 22:36:52 GMT
+Judged UNDECIDABLE by Murphy:           06 Jul 2012 14:00:11 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+The statement is not IRRELEVANT because a judgment of TRUE or FALSE
+would logically imply that I win.  It is not MALFORMED because its
+easily parsed as a compound sentence.  It is precise and meaningful,
+and any difficulty in assigning judgment cannot come from a lack of
+information because there is no information relevant to the statement
+that's missing.  So it cannot be UNDETERMINED.
+
+This leaves only TRUE, FALSE, and UNDECIDABLE as possible judgments.
+As I would be satisfied with any of those three, I will end my
+argument here and leave further determination to the judge.
+
+========================================================================
+
+Caller's Evidence:
+
+Only the rules of logical deduction are needed for this case.
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+I accept the caller's arguments.  Ozymandias has not won the game, so
+neither TRUE nor FALSE is appropriate.
+
+========================================================================</pre></body></html>

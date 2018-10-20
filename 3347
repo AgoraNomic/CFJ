@@ -1,0 +1,113 @@
+
+        <html><head><title>CFJ 3347</title>
+        <style>
+            body {
+              font-family: monospace;
+            }
+          table{
+              font: 1em/1.2 "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+              border-collapse: collapse;
+              width: 550px;
+          }         
+         a:link     {text-decoration: none;  color: white;}
+         a:visited  {text-decoration: none;  color: white;}
+         td:hover {background-color: #666;}
+ td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    overflow: hidden;
+    font-size: 1.2em;
+    text-align: center;
+    background-color: #444;
+    color: white;
+}
+.indx{text-align:left; vertical-align:bottom; font-size:100%;}
+.prev{text-align:right; vertical-align:bottom; font-size:85%;}
+.next{text-align:left; vertical-align:bottom; font-size:85%;}
+.text{text-align:right; vertical-align:bottom; font-size:100%;}
+
+td a{
+  display: block;
+  margin: -10cm;
+  padding: 10cm;
+}
+         </style>
+         </head>
+         <body>
+         <table><tr>
+         <td class="indx"><a href="./#3348">Index</a></td>
+         <td class="prev"><a href="./3346"><b>&larr;&nbsp;3346</b></a></td>
+         <td><a href="./3347"><b>CFJ 3347</b></a></td>
+         <td class="next"><a href="./3348"><b>3348&nbsp;&rarr;</b></a></td>
+         <td class="text"><a href="./txt/3347">text</a></td>
+         </tr></table><pre>
+==============================  CFJ 3347  ==============================
+
+    If a player is required to make an officer's report, but also holds
+    the    Office of Governmental Waste, resigning the office of
+    Governmental Waste    is a reasonable way (as per R1504d) to avoid
+    breaking Rule 2395.
+
+========================================================================
+
+Caller:                                 G.
+Barred:                                 scshunt
+
+Judge:                                  omd
+Judgement:                              
+
+
+Judge:                                  Walker
+Judgement:                              
+
+
+Judge:                                  lindar
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by G.:                           23 Jun 2013 18:24:13 GMT
+Assigned to omd:                        23 Jun 2013 19:29:38 GMT
+omd recused:                            03 Jul 2013 22:15:52 GMT
+Assigned to Walker:                     08 Jul 2013 17:08:08 GMT
+Walker recused:                         15 Jul 2013 13:39:05 GMT
+Assigned to lindar:                     15 Jul 2013 17:46:30 GMT
+Judged TRUE by lindar:                  18 Jul 2013 12:28:46 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+First, this case is wholly IRRELEVANT if the previous case is FALSE.
+
+It's been found previously, *in general*, that if an Officer is found
+in a nest of conflicting duties, that it's not reasonable (in an R1504d
+sense) to ask em to resign to avoid the breaches, as it is better for
+the game that officers not be forced to resign.
+
+However, in this case, a person holding the Governmental Waste office
+while holding another non-wasteful office is violating the entire
+raison d'être of Governmental Waste in the first place, so it's only
+reasonable that the solution be to resign.
+
+========================================================================
+
+Judge lindar's Arguments:
+
+It is the opinion of this judge that indeed resigning is a reasonable
+way to avoid breaking the aforementioned rule. While it is not
+necessarily in the best interest of Agora as a whole to situationally
+force officors to resign, it is a viable strategy. However, we should
+set an example such that players who hold multiple offices do not
+attempt to manipulate penalty leniency to unfairly gain for
+themselves. The judge also agrees that holding a position in another
+office as well as the OoGW violates the spirit of said office, but
+this wasn't really the point of the judgement or necessarily the
+question asked.
+
+For what it's worth, even though it doesn't really do much, the ruling is:
+TRUE
+
+========================================================================</pre></body></html>

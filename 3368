@@ -1,0 +1,91 @@
+
+        <html><head><title>CFJ 3368</title>
+        <style>
+            body {
+              font-family: monospace;
+            }
+          table{
+              font: 1em/1.2 "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+              border-collapse: collapse;
+              width: 550px;
+          }         
+         a:link     {text-decoration: none;  color: white;}
+         a:visited  {text-decoration: none;  color: white;}
+         td:hover {background-color: #666;}
+ td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    overflow: hidden;
+    font-size: 1.2em;
+    text-align: center;
+    background-color: #444;
+    color: white;
+}
+.indx{text-align:left; vertical-align:bottom; font-size:100%;}
+.prev{text-align:right; vertical-align:bottom; font-size:85%;}
+.next{text-align:left; vertical-align:bottom; font-size:85%;}
+.text{text-align:right; vertical-align:bottom; font-size:100%;}
+
+td a{
+  display: block;
+  margin: -10cm;
+  padding: 10cm;
+}
+         </style>
+         </head>
+         <body>
+         <table><tr>
+         <td class="indx"><a href="./#3369">Index</a></td>
+         <td class="prev"><a href="./3367"><b>&larr;&nbsp;3367</b></a></td>
+         <td><a href="./3368"><b>CFJ 3368</b></a></td>
+         <td class="next"><a href="./3369"><b>3369&nbsp;&rarr;</b></a></td>
+         <td class="text"><a href="./txt/3368">text</a></td>
+         </tr></table><pre>
+==============================  CFJ 3368  ==============================
+
+    This is a frivolous CFJ.
+
+========================================================================
+
+Caller:                                 G.
+
+Judge:                                  FKA441344
+Judgement:                              
+
+
+Judge:                                  woggle
+Judgement:                              IRRELEVANT
+
+========================================================================
+
+History:
+
+Called by G.:                           09 Jul 2013 00:23:22 GMT
+Assigned to FKA441344:                  15 Jul 2013 17:38:04 GMT
+FKA441344 recused:                      21 Jul 2013 15:16:57 GMT
+Assigned to woggle:                     23 Jul 2013 17:24:26 GMT
+Judged IRRELEVANT by woggle:            27 Jul 2013 21:33:16 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Pretty frivolous, it doesn't pertain to anything.  Then again,
+I don't think it's frivolous to ask what frivolous means.  On
+the third hand, this is a game.  We're all frivolous, here.
+
+========================================================================
+
+Caller's Evidence:
+
+Evidence from Steve:
+> According to the OED, 'frivolous' has a special legal sense meaning
+> 'manifestly insufficient or futile'.
+
+========================================================================
+
+Judge woggle's Arguments:
+
+I judge CFJ 3368 IRRELEVANT.
+
+========================================================================</pre></body></html>

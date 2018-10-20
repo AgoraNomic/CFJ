@@ -1,0 +1,95 @@
+
+        <html><head><title>CFJ 3220</title>
+        <style>
+            body {
+              font-family: monospace;
+            }
+          table{
+              font: 1em/1.2 "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+              border-collapse: collapse;
+              width: 550px;
+          }         
+         a:link     {text-decoration: none;  color: white;}
+         a:visited  {text-decoration: none;  color: white;}
+         td:hover {background-color: #666;}
+ td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    overflow: hidden;
+    font-size: 1.2em;
+    text-align: center;
+    background-color: #444;
+    color: white;
+}
+.indx{text-align:left; vertical-align:bottom; font-size:100%;}
+.prev{text-align:right; vertical-align:bottom; font-size:85%;}
+.next{text-align:left; vertical-align:bottom; font-size:85%;}
+.text{text-align:right; vertical-align:bottom; font-size:100%;}
+
+td a{
+  display: block;
+  margin: -10cm;
+  padding: 10cm;
+}
+         </style>
+         </head>
+         <body>
+         <table><tr>
+         <td class="indx"><a href="./#3221">Index</a></td>
+         <td class="prev"><a href="./3219"><b>&larr;&nbsp;3219</b></a></td>
+         <td><a href="./3220"><b>CFJ 3220</b></a></td>
+         <td class="next"><a href="./3221"><b>3221&nbsp;&rarr;</b></a></td>
+         <td class="text"><a href="./txt/3220">text</a></td>
+         </tr></table><pre>
+==============================  CFJ 3220  ==============================
+
+    It is illegal for a player to announce intent to use Ratification
+    Without Objection to ratify a document whose contents are identical
+    to this sentence, without also specifying a reason for ratifying it.
+
+========================================================================
+
+Caller:                                 Machiavelli
+
+Judge:                                  scshunt
+Judgement:                              
+
+
+Judge:                                  FKA441344
+Judgement:                              UNDECIDABLE
+
+========================================================================
+
+History:
+
+Called by Machiavelli:                  27 May 2012 22:00:06 GMT
+Assigned to scshunt:                    03 Jun 2012 17:47:52 GMT
+scshunt recused:                        21 Jun 2012 12:54:31 GMT
+Assigned to FKA441344:                  21 Jun 2012 12:57:34 GMT
+Judged UNDECIDABLE by FKA441344:        24 Jun 2012 22:26:34 GMT
+
+========================================================================
+
+Caller's Evidence:
+
+On Sat, May 26, 2012 at 12:51 AM, Tanner Swett <swettt@mail.gvsu.edu> wrote:
+> I judge CFJ 3212 FALSE, and intend, without objection, to ratify it.
+
+I ratify CFJ 3212. I suggest that the Rulekeepor record the creation
+of a rule with power 1 and no title, reading, "It is illegal for a
+player to announce intent to use Ratification Without Objection to
+ratify a document whose contents are identical to this sentence,
+without also specifying a reason for ratifying it."
+
+I call a CFJ on CFJ 3212.
+
+========================================================================
+
+Judge FKA441344's Arguments:
+
+The attempt to ratify the statement of CFJs 3212 and 3220 had no
+effect, as ratification cannot perform rule changes unless the
+document ratified contains the new text of the rule. I judge case 3220
+UNDECIDABLE.
+
+========================================================================</pre></body></html>

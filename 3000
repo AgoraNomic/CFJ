@@ -1,0 +1,142 @@
+
+        <html><head><title>CFJ 3000</title>
+        <style>
+            body {
+              font-family: monospace;
+            }
+          table{
+              font: 1em/1.2 "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+              border-collapse: collapse;
+              width: 550px;
+          }         
+         a:link     {text-decoration: none;  color: white;}
+         a:visited  {text-decoration: none;  color: white;}
+         td:hover {background-color: #666;}
+ td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    overflow: hidden;
+    font-size: 1.2em;
+    text-align: center;
+    background-color: #444;
+    color: white;
+}
+.indx{text-align:left; vertical-align:bottom; font-size:100%;}
+.prev{text-align:right; vertical-align:bottom; font-size:85%;}
+.next{text-align:left; vertical-align:bottom; font-size:85%;}
+.text{text-align:right; vertical-align:bottom; font-size:100%;}
+
+td a{
+  display: block;
+  margin: -10cm;
+  padding: 10cm;
+}
+         </style>
+         </head>
+         <body>
+         <table><tr>
+         <td class="indx"><a href="./#3001">Index</a></td>
+         <td class="prev"><a href="./2998"><b>&larr;&nbsp;2998</b></a></td>
+         <td><a href="./3000"><b>CFJ 3000</b></a></td>
+         <td class="next"><a href="./3001"><b>3001&nbsp;&rarr;</b></a></td>
+         <td class="text"><a href="./txt/3000">text</a></td>
+         </tr></table><pre>
+==============================  CFJ 3000  ==============================
+
+    In general, if a purported action by announcement is accompanied by
+    a disclaimer equivalent to "this may be ineffective", without
+    indicating why it may be ineffective, then the action is ineffective
+    due to ambiguity.
+
+========================================================================
+
+Caller:                                 Murphy
+
+Judge:                                  scshunt
+Judgement:                              
+
+
+Judge:                                  omd
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       19 Apr 2011 00:58:17 GMT
+Assigned to scshunt:                    19 Apr 2011 07:03:37 GMT
+scshunt recused:                        15 May 2011 22:35:41 GMT
+Assigned to omd:                        15 May 2011 23:22:58 GMT
+Judged FALSE by omd:                    20 May 2011 16:19:35 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Consider this spectrum of disclaimers attached to "I do X":
+
+  a) I don't.
+  b) Maybe I don't.
+  c) This fails.
+  d) Maybe this fails.
+  e) This (fails / may fail) if (specific condition).
+  f) This may fail for some reason I haven't thought of.
+
+In general, "I don't" introduces sufficient ambiguity.  I believe
+that introducing the /possibility/ of "I don't" also introduces
+sufficient ambiguity.  I believe that the first four disclaimers
+introduce this possibility, while the last two do not.
+
+========================================================================
+
+Caller's Evidence:
+
+Rule 478, relevant excerpt:
+
+      Where the rules define an action that CAN be performed "by
+      announcement", a person performs that action by unambiguously
+      and clearly specifying the action and announcing that e performs
+      it.
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+I'd hesitate to throw out any of b-d.  "This fails", even without
+further explanation, could be (and probably has been) used as a
+courtesy when one is legally required to attempt an action which is
+blocked by something else.  Or maybe it's added for flavor/challenge
+when a specific scam attempt wouldn't work for a withheld reason.
+
+I think in general that claiming something "fails" (as opposed to
+claiming something is "false") is a common Agoran usage which means
+"I try to do this but something else most likely blocks it.  But if
+I'm wrong about the block, I'm still formally attempting it and so
+it should work."
+
+Saying "swing and a miss" is different than saying "no swing".
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+In addition to 2069, there's also CFJ 2830,
+which cites 2069 but, as far as I can see, contradicts its precedent
+(unless there is some reason to believe that awarding a Ribbon was a
+more "truth-based action" than calling a CFJ).
+
+========================================================================
+
+Judge omd's Arguments:
+
+Since an "action statement" states that the performer is performing
+the action, "This may be ineffective." is equivalent to "This
+statement might be false."  The precedent of 2069 etc. is that some
+actions, including filing a CFJ, can be performed with the latter type
+of disclaimer, so FALSE.
+
+(I don't think that whole precedent chain makes much sense-- it's
+based on "everyone sorta agrees that CFJ 1971 exists", not any actual
+reasoning.  But there you go.)
+
+========================================================================</pre></body></html>

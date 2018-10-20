@@ -1,0 +1,84 @@
+
+        <html><head><title>CFJ 3155</title>
+        <style>
+            body {
+              font-family: monospace;
+            }
+          table{
+              font: 1em/1.2 "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+              border-collapse: collapse;
+              width: 550px;
+          }         
+         a:link     {text-decoration: none;  color: white;}
+         a:visited  {text-decoration: none;  color: white;}
+         td:hover {background-color: #666;}
+ td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    overflow: hidden;
+    font-size: 1.2em;
+    text-align: center;
+    background-color: #444;
+    color: white;
+}
+.indx{text-align:left; vertical-align:bottom; font-size:100%;}
+.prev{text-align:right; vertical-align:bottom; font-size:85%;}
+.next{text-align:left; vertical-align:bottom; font-size:85%;}
+.text{text-align:right; vertical-align:bottom; font-size:100%;}
+
+td a{
+  display: block;
+  margin: -10cm;
+  padding: 10cm;
+}
+         </style>
+         </head>
+         <body>
+         <table><tr>
+         <td class="indx"><a href="./#3156">Index</a></td>
+         <td class="prev"><a href="./3154"><b>&larr;&nbsp;3154</b></a></td>
+         <td><a href="./3155"><b>CFJ 3155</b></a></td>
+         <td class="next"><a href="./3156"><b>3156&nbsp;&rarr;</b></a></td>
+         <td class="text"><a href="./txt/3155">text</a></td>
+         </tr></table><pre>
+==============================  CFJ 3155  ==============================
+
+    If a report that contains a "recent history" section is ratified, it
+    also ratifies the fact that any missing events pertaining to that
+    report, that might have otherwise occurred between the earliest and
+    latest recorded events, did not occur.
+
+========================================================================
+
+Caller:                                 G.
+
+Judge:                                  Murphy
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by G.:                           26 Jan 2012 19:26:23 GMT
+Assigned to Murphy:                     05 Feb 2012 21:08:08 GMT
+Judged FALSE by Murphy:                 05 Feb 2012 21:32:47 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Ratification by omission works?
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+If "history" is interpreted as implicitly meaning "complete history of
+certain types of event during a certain date range", then any such
+omission would cause ratification to fail, either because the report is
+inconsistent (Rule 1551, paragraph 3) or because the omission has no net
+effect (e.g. submitting and retracting a judicial case) and it's equally
+appropriate to include or exclude it (Rule 1551, paragraph 2).  It's in
+the best interest of the game to avoid this.
+
+========================================================================</pre></body></html>

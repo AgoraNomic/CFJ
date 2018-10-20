@@ -1,0 +1,96 @@
+
+        <html><head><title>CFJ 3415</title>
+        <style>
+            body {
+              font-family: monospace;
+            }
+          table{
+              font: 1em/1.2 "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+              border-collapse: collapse;
+              width: 550px;
+          }         
+         a:link     {text-decoration: none;  color: white;}
+         a:visited  {text-decoration: none;  color: white;}
+         td:hover {background-color: #666;}
+ td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    overflow: hidden;
+    font-size: 1.2em;
+    text-align: center;
+    background-color: #444;
+    color: white;
+}
+.indx{text-align:left; vertical-align:bottom; font-size:100%;}
+.prev{text-align:right; vertical-align:bottom; font-size:85%;}
+.next{text-align:left; vertical-align:bottom; font-size:85%;}
+.text{text-align:right; vertical-align:bottom; font-size:100%;}
+
+td a{
+  display: block;
+  margin: -10cm;
+  padding: 10cm;
+}
+         </style>
+         </head>
+         <body>
+         <table><tr>
+         <td class="indx"><a href="./#3416">Index</a></td>
+         <td class="prev"><a href="./3414"><b>&larr;&nbsp;3414</b></a></td>
+         <td><a href="./3415"><b>CFJ 3415</b></a></td>
+         <td class="next"><a href="./3416"><b>3416&nbsp;&rarr;</b></a></td>
+         <td class="text"><a href="./txt/3415">text</a></td>
+         </tr></table><pre>
+==============================  CFJ 3415  ==============================
+
+    Henri has a Red Card.
+
+========================================================================
+
+Caller:     G.
+
+========================================================================
+
+Called by G.:                                       11 Jun 2014 12:32:03
+Assigned to Murphy:                                 11 Jun 2014 12:32:03
+Judged DISMISS by Murphy:                           13 Jul 2014 15:42:40
+
+========================================================================
+
+<alpine.LRH.2.01.1406110929110.4208@hymn04.u.washington.edu>
+Exhibit by G.:
+
+Assets or other "item" rules don't currently exist.  Henri was "issued"
+a Red Card and apologized.  Was the red card destroyed?  Was the implied
+metaphor of it being a real "card" give enough common definition space
+to make it a "thing" that must be destroyed, or is the only thing
+tracked the date of issuance?  The referee is in charge of "keeping
+track of wrongdoing" but there's no guidance on what is supposed to be
+tracked.
+
+========================================================================
+
+<53C2E1A3.5040709@zoho.com>
+Exhibit by Murphy:
+
+> CFJ 3415 (G.):  "Henri has a Red Card."
+>
+> is hereby assigned to Murphy.
+>
+>
+> CALLER'S ARGUMENTS
+>
+> Assets or other "item" rules don't currently exist.  Henri was "issued"
+> a Red Card and apologized.  Was the red card destroyed?  Was the implied
+> metaphor of it being a real "card" give enough common definition space
+> to make it a "thing" that must be destroyed, or is the only thing
+> tracked the date of issuance?  The referee is in charge of "keeping
+> track of wrongdoing" but there's no guidance on what is supposed to be
+> tracked.
+DISMISS as irrelevant, as there are currently no rules that depend on
+the answer (at least none that explicitly mention Red Cards).  If there
+were, and the rules were still silent on the issue, then common sense /
+best interests / etc. would depend on what those rules were.
+
+========================================================================
+</pre></body></html>

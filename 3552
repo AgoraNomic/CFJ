@@ -1,0 +1,120 @@
+
+        <html><head><title>CFJ 3552</title>
+        <style>
+            body {
+              font-family: monospace;
+            }
+          table{
+              font: 1em/1.2 "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+              border-collapse: collapse;
+              width: 550px;
+          }         
+         a:link     {text-decoration: none;  color: white;}
+         a:visited  {text-decoration: none;  color: white;}
+         td:hover {background-color: #666;}
+ td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    overflow: hidden;
+    font-size: 1.2em;
+    text-align: center;
+    background-color: #444;
+    color: white;
+}
+.indx{text-align:left; vertical-align:bottom; font-size:100%;}
+.prev{text-align:right; vertical-align:bottom; font-size:85%;}
+.next{text-align:left; vertical-align:bottom; font-size:85%;}
+.text{text-align:right; vertical-align:bottom; font-size:100%;}
+
+td a{
+  display: block;
+  margin: -10cm;
+  padding: 10cm;
+}
+         </style>
+         </head>
+         <body>
+         <table><tr>
+         <td class="indx"><a href="./#3553">Index</a></td>
+         <td class="prev"><a href="./3551"><b>&larr;&nbsp;3551</b></a></td>
+         <td><a href="./3552"><b>CFJ 3552</b></a></td>
+         <td class="next"><a href="./3553"><b>3553&nbsp;&rarr;</b></a></td>
+         <td class="text"><a href="./txt/3552">text</a></td>
+         </tr></table><pre>
+==============================  CFJ 3552  ==============================
+
+      babelian has pended eir most recently submitted proposal.
+
+========================================================================
+
+Caller:                       Publius Scribonius Scholasticus                        
+
+Judge:                        o
+Judgement:                    FALSE
+
+========================================================================
+
+History:
+
+Called by Publius Scribonius Scholasticus:  13 Jul 2017                    
+Assigned to o:                              01 Aug 2017
+Judged FALSE by o:                          03 Aug 2017
+
+========================================================================
+
+Caller's Arguments:
+
+                      It has previously been found that actions could
+be spread across multiple messages. However, I am unsure of whether
+the first payment would have been effective because e was doing with
+the expressed intent of causing something to occur that could not
+have occurred. If the first one, failed I believe the second one
+failed for the same reason. Also, it is unclear whether these
+messages constitute one action unambiguously. Given these
+complications, I also request that the judge also give a
+recommendation as to babelian’s current shiney balance.
+
+========================================================================
+
+Caller's Evidence:
+
+On Jul 31, 2017, at 1:03 PM, Ajay Kumar Raja <kumarraja.ajay@gmail.com> wrote:
+>
+> I pay 5 more shinies to Agora to pay the full Pending List Price
+> of 10 shinies. Given my "Welcome Package" of 50 shinies, I should
+> have 40 shinies from that Welcome Package left over; therefore I
+> transfer 5 shinies back to nichdel.
+
+========================================================================
+
+Judge's Arguments:
+
+
+This appears to be the converse of CFJ 1470.
+
+There is a strong game convention of forbidding retroactive effect.
+While the act of performing a single act across multiple messages is NOT
+regulated by the rules and is purely convention, it is not in the
+interests of the game's health to permit an action which, taken on its
+own, would fail, to succeed with the addition of a substantially-delayed
+followup message.
+
+A number of material game actions occurred between babelian's first and
+second messages, so eir follow-up message, which purports to "top up"
+the original attempt to pay for pending, should not be treated as a
+continuation of the same act. Instead, we should treat them as two
+separate attempts to pay 5 shinies apiece, and not as a single attempt
+to pay 10 shinies.
+
+As both actions were conditioned on pending a proposal, and as the
+proposal could not be pended by paying 5 shinies on either occasion, I
+find the statement
+
+> babelian has pended eir most recently submitted proposal
+
+to be FALSE. In consolation, babelian has clearly kept all ten of eir
+shinies, and can easily correct the mistake by pending the proposal with
+either shinies or action points at this time.
+
+========================================================================
+</pre></body></html>
